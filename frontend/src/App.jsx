@@ -1,14 +1,18 @@
-// TEMPORARY App for Batch 4 - the final App.jsx comes in Batch 5
+// Tier 1 - presentation: routes + layout. Every page calls the FastAPI backend through src/api.
 import { Route, Routes } from "react-router-dom";
 import Sidebar from "./components/layout/Sidebar";
 import Alarms from "./pages/Alarms";
 import Checklist from "./pages/Checklist";
 import Dashboard from "./pages/Dashboard";
+import DataModel from "./pages/DataModel";
 import DataQuality from "./pages/DataQuality";
 import FloodsNuisance from "./pages/FloodsNuisance";
 import Incidents from "./pages/Incidents";
 import IncidentTrace from "./pages/IncidentTrace";
 import RepeatedUnsafe from "./pages/RepeatedUnsafe";
+import Reproducibility from "./pages/Reproducibility";
+import Rules from "./pages/Rules";
+import Validation from "./pages/Validation";
 
 export default function App() {
   return (
@@ -24,7 +28,11 @@ export default function App() {
           <Route path="/incidents/:id" element={<IncidentTrace />} />
           <Route path="/unsafe" element={<RepeatedUnsafe />} />
           <Route path="/quality" element={<DataQuality />} />
-          <Route path="*" element={<div className="empty">This page arrives in the next batch</div>} />
+          <Route path="/validation" element={<Validation />} />
+          <Route path="/reproducibility" element={<Reproducibility />} />
+          <Route path="/model" element={<DataModel />} />
+          <Route path="/rules" element={<Rules />} />
+          <Route path="*" element={<div className="empty">Page not found - use the menu on the left.</div>} />
         </Routes>
       </main>
     </div>
