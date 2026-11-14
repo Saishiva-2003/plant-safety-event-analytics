@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+.pytest_cache/
+
+# Secrets
+.env
+
+# Node / React
+node_modules/
+frontend/dist/
+
+# Temp output
+backend/tmp_repro/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
