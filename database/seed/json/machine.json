@@ -1,0 +1,602 @@
+[
+ {
+  "machine_id": "P01-M001",
+  "plant_id": "P01",
+  "machine_name": "Hydraulic Press 01",
+  "machine_type": "HYDRAULIC_PRESS",
+  "manufacturer": "Engel",
+  "criticality": "A",
+  "commissioned_date": "2020-10-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P01-M002",
+  "plant_id": "P01",
+  "machine_name": "Robot Cell 02",
+  "machine_type": "ROBOT_CELL",
+  "manufacturer": "Siemens",
+  "criticality": "A",
+  "commissioned_date": "2018-04-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P01-M003",
+  "plant_id": "P01",
+  "machine_name": "Conveyor 03",
+  "machine_type": "CONVEYOR",
+  "manufacturer": "Siemens",
+  "criticality": "C",
+  "commissioned_date": "2018-04-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P01-M004",
+  "plant_id": "P01",
+  "machine_name": "CNC Mill 04",
+  "machine_type": "CNC_MILL",
+  "manufacturer": "Engel",
+  "criticality": "B",
+  "commissioned_date": "2024-02-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P01-M005",
+  "plant_id": "P01",
+  "machine_name": "Injection Molder 05",
+  "machine_type": "INJECTION_MOLDER",
+  "manufacturer": "KUKA",
+  "criticality": "B",
+  "commissioned_date": "2017-09-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P01-M006",
+  "plant_id": "P01",
+  "machine_name": "Welding Station 06",
+  "machine_type": "WELDING_STATION",
+  "manufacturer": "Siemens",
+  "criticality": "B",
+  "commissioned_date": "2024-02-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P01-M007",
+  "plant_id": "P01",
+  "machine_name": "Hydraulic Press 07",
+  "machine_type": "HYDRAULIC_PRESS",
+  "manufacturer": "Haas",
+  "criticality": "A",
+  "commissioned_date": "2020-08-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P01-M008",
+  "plant_id": "P01",
+  "machine_name": "Robot Cell 08",
+  "machine_type": "ROBOT_CELL",
+  "manufacturer": "ABB",
+  "criticality": "A",
+  "commissioned_date": "2022-02-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P01-M009",
+  "plant_id": "P01",
+  "machine_name": "Conveyor 09",
+  "machine_type": "CONVEYOR",
+  "manufacturer": "Haas",
+  "criticality": "C",
+  "commissioned_date": "2018-09-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P01-M010",
+  "plant_id": "P01",
+  "machine_name": "CNC Mill 10",
+  "machine_type": "CNC_MILL",
+  "manufacturer": "Fanuc",
+  "criticality": "B",
+  "commissioned_date": "2016-03-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P01-M011",
+  "plant_id": "P01",
+  "machine_name": "Injection Molder 11",
+  "machine_type": "INJECTION_MOLDER",
+  "manufacturer": "KUKA",
+  "criticality": "B",
+  "commissioned_date": "2021-02-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P01-M012",
+  "plant_id": "P01",
+  "machine_name": "Welding Station 12",
+  "machine_type": "WELDING_STATION",
+  "manufacturer": "Engel",
+  "criticality": "B",
+  "commissioned_date": "2015-03-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P01-M013",
+  "plant_id": "P01",
+  "machine_name": "Hydraulic Press 13",
+  "machine_type": "HYDRAULIC_PRESS",
+  "manufacturer": "Haas",
+  "criticality": "A",
+  "commissioned_date": "2018-01-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P01-M014",
+  "plant_id": "P01",
+  "machine_name": "Robot Cell 14",
+  "machine_type": "ROBOT_CELL",
+  "manufacturer": "Fanuc",
+  "criticality": "A",
+  "commissioned_date": "2016-05-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P01-M015",
+  "plant_id": "P01",
+  "machine_name": "Conveyor 15",
+  "machine_type": "CONVEYOR",
+  "manufacturer": "Siemens",
+  "criticality": "C",
+  "commissioned_date": "2016-02-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P02-M001",
+  "plant_id": "P02",
+  "machine_name": "Hydraulic Press 01",
+  "machine_type": "HYDRAULIC_PRESS",
+  "manufacturer": "Haas",
+  "criticality": "A",
+  "commissioned_date": "2022-08-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P02-M002",
+  "plant_id": "P02",
+  "machine_name": "Robot Cell 02",
+  "machine_type": "ROBOT_CELL",
+  "manufacturer": "Engel",
+  "criticality": "A",
+  "commissioned_date": "2023-01-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P02-M003",
+  "plant_id": "P02",
+  "machine_name": "Conveyor 03",
+  "machine_type": "CONVEYOR",
+  "manufacturer": "KUKA",
+  "criticality": "C",
+  "commissioned_date": "2024-07-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P02-M004",
+  "plant_id": "P02",
+  "machine_name": "CNC Mill 04",
+  "machine_type": "CNC_MILL",
+  "manufacturer": "Siemens",
+  "criticality": "B",
+  "commissioned_date": "2018-01-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P02-M005",
+  "plant_id": "P02",
+  "machine_name": "Injection Molder 05",
+  "machine_type": "INJECTION_MOLDER",
+  "manufacturer": "ABB",
+  "criticality": "B",
+  "commissioned_date": "2019-09-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P02-M006",
+  "plant_id": "P02",
+  "machine_name": "Welding Station 06",
+  "machine_type": "WELDING_STATION",
+  "manufacturer": "Haas",
+  "criticality": "B",
+  "commissioned_date": "2020-12-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P02-M007",
+  "plant_id": "P02",
+  "machine_name": "Hydraulic Press 07",
+  "machine_type": "HYDRAULIC_PRESS",
+  "manufacturer": "Schuler",
+  "criticality": "A",
+  "commissioned_date": "2015-02-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P02-M008",
+  "plant_id": "P02",
+  "machine_name": "Robot Cell 08",
+  "machine_type": "ROBOT_CELL",
+  "manufacturer": "Haas",
+  "criticality": "A",
+  "commissioned_date": "2024-01-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P02-M009",
+  "plant_id": "P02",
+  "machine_name": "Conveyor 09",
+  "machine_type": "CONVEYOR",
+  "manufacturer": "Engel",
+  "criticality": "C",
+  "commissioned_date": "2023-01-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P02-M010",
+  "plant_id": "P02",
+  "machine_name": "CNC Mill 10",
+  "machine_type": "CNC_MILL",
+  "manufacturer": "Fanuc",
+  "criticality": "B",
+  "commissioned_date": "2021-01-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P02-M011",
+  "plant_id": "P02",
+  "machine_name": "Injection Molder 11",
+  "machine_type": "INJECTION_MOLDER",
+  "manufacturer": "Fanuc",
+  "criticality": "B",
+  "commissioned_date": "2018-12-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P02-M012",
+  "plant_id": "P02",
+  "machine_name": "Welding Station 12",
+  "machine_type": "WELDING_STATION",
+  "manufacturer": "Engel",
+  "criticality": "B",
+  "commissioned_date": "2024-09-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P02-M013",
+  "plant_id": "P02",
+  "machine_name": "Hydraulic Press 13",
+  "machine_type": "HYDRAULIC_PRESS",
+  "manufacturer": "Engel",
+  "criticality": "A",
+  "commissioned_date": "2023-12-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P02-M014",
+  "plant_id": "P02",
+  "machine_name": "Robot Cell 14",
+  "machine_type": "ROBOT_CELL",
+  "manufacturer": "Schuler",
+  "criticality": "A",
+  "commissioned_date": "2019-12-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P02-M015",
+  "plant_id": "P02",
+  "machine_name": "Conveyor 15",
+  "machine_type": "CONVEYOR",
+  "manufacturer": "Fanuc",
+  "criticality": "C",
+  "commissioned_date": "2020-09-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P03-M001",
+  "plant_id": "P03",
+  "machine_name": "Hydraulic Press 01",
+  "machine_type": "HYDRAULIC_PRESS",
+  "manufacturer": "KUKA",
+  "criticality": "A",
+  "commissioned_date": "2023-10-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P03-M002",
+  "plant_id": "P03",
+  "machine_name": "Robot Cell 02",
+  "machine_type": "ROBOT_CELL",
+  "manufacturer": "Engel",
+  "criticality": "A",
+  "commissioned_date": "2020-03-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P03-M003",
+  "plant_id": "P03",
+  "machine_name": "Conveyor 03",
+  "machine_type": "CONVEYOR",
+  "manufacturer": "Schuler",
+  "criticality": "C",
+  "commissioned_date": "2023-05-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P03-M004",
+  "plant_id": "P03",
+  "machine_name": "CNC Mill 04",
+  "machine_type": "CNC_MILL",
+  "manufacturer": "Engel",
+  "criticality": "B",
+  "commissioned_date": "2015-01-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P03-M005",
+  "plant_id": "P03",
+  "machine_name": "Injection Molder 05",
+  "machine_type": "INJECTION_MOLDER",
+  "manufacturer": "KUKA",
+  "criticality": "B",
+  "commissioned_date": "2022-12-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P03-M006",
+  "plant_id": "P03",
+  "machine_name": "Welding Station 06",
+  "machine_type": "WELDING_STATION",
+  "manufacturer": "Engel",
+  "criticality": "B",
+  "commissioned_date": "2023-09-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P03-M007",
+  "plant_id": "P03",
+  "machine_name": "Hydraulic Press 07",
+  "machine_type": "HYDRAULIC_PRESS",
+  "manufacturer": "KUKA",
+  "criticality": "A",
+  "commissioned_date": "2022-07-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P03-M008",
+  "plant_id": "P03",
+  "machine_name": "Robot Cell 08",
+  "machine_type": "ROBOT_CELL",
+  "manufacturer": "KUKA",
+  "criticality": "A",
+  "commissioned_date": "2023-03-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P03-M009",
+  "plant_id": "P03",
+  "machine_name": "Conveyor 09",
+  "machine_type": "CONVEYOR",
+  "manufacturer": "Haas",
+  "criticality": "C",
+  "commissioned_date": "2015-10-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P03-M010",
+  "plant_id": "P03",
+  "machine_name": "CNC Mill 10",
+  "machine_type": "CNC_MILL",
+  "manufacturer": "Haas",
+  "criticality": "B",
+  "commissioned_date": "2020-02-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P03-M011",
+  "plant_id": "P03",
+  "machine_name": "Injection Molder 11",
+  "machine_type": "INJECTION_MOLDER",
+  "manufacturer": "KUKA",
+  "criticality": "B",
+  "commissioned_date": "2015-06-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P03-M012",
+  "plant_id": "P03",
+  "machine_name": "Welding Station 12",
+  "machine_type": "WELDING_STATION",
+  "manufacturer": "Siemens",
+  "criticality": "B",
+  "commissioned_date": "2024-11-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P03-M013",
+  "plant_id": "P03",
+  "machine_name": "Hydraulic Press 13",
+  "machine_type": "HYDRAULIC_PRESS",
+  "manufacturer": "Engel",
+  "criticality": "A",
+  "commissioned_date": "2020-07-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P03-M014",
+  "plant_id": "P03",
+  "machine_name": "Robot Cell 14",
+  "machine_type": "ROBOT_CELL",
+  "manufacturer": "Schuler",
+  "criticality": "A",
+  "commissioned_date": "2016-10-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P03-M015",
+  "plant_id": "P03",
+  "machine_name": "Conveyor 15",
+  "machine_type": "CONVEYOR",
+  "manufacturer": "ABB",
+  "criticality": "C",
+  "commissioned_date": "2018-08-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P04-M001",
+  "plant_id": "P04",
+  "machine_name": "Hydraulic Press 01",
+  "machine_type": "HYDRAULIC_PRESS",
+  "manufacturer": "Schuler",
+  "criticality": "A",
+  "commissioned_date": "2016-02-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P04-M002",
+  "plant_id": "P04",
+  "machine_name": "Robot Cell 02",
+  "machine_type": "ROBOT_CELL",
+  "manufacturer": "Schuler",
+  "criticality": "A",
+  "commissioned_date": "2018-03-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P04-M003",
+  "plant_id": "P04",
+  "machine_name": "Conveyor 03",
+  "machine_type": "CONVEYOR",
+  "manufacturer": "Schuler",
+  "criticality": "C",
+  "commissioned_date": "2020-03-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P04-M004",
+  "plant_id": "P04",
+  "machine_name": "CNC Mill 04",
+  "machine_type": "CNC_MILL",
+  "manufacturer": "Schuler",
+  "criticality": "B",
+  "commissioned_date": "2020-10-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P04-M005",
+  "plant_id": "P04",
+  "machine_name": "Injection Molder 05",
+  "machine_type": "INJECTION_MOLDER",
+  "manufacturer": "KUKA",
+  "criticality": "B",
+  "commissioned_date": "2015-01-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P04-M006",
+  "plant_id": "P04",
+  "machine_name": "Welding Station 06",
+  "machine_type": "WELDING_STATION",
+  "manufacturer": "Haas",
+  "criticality": "B",
+  "commissioned_date": "2018-08-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P04-M007",
+  "plant_id": "P04",
+  "machine_name": "Hydraulic Press 07",
+  "machine_type": "HYDRAULIC_PRESS",
+  "manufacturer": "KUKA",
+  "criticality": "A",
+  "commissioned_date": "2017-12-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P04-M008",
+  "plant_id": "P04",
+  "machine_name": "Robot Cell 08",
+  "machine_type": "ROBOT_CELL",
+  "manufacturer": "Schuler",
+  "criticality": "A",
+  "commissioned_date": "2020-07-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P04-M009",
+  "plant_id": "P04",
+  "machine_name": "Conveyor 09",
+  "machine_type": "CONVEYOR",
+  "manufacturer": "Haas",
+  "criticality": "C",
+  "commissioned_date": "2018-09-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P04-M010",
+  "plant_id": "P04",
+  "machine_name": "CNC Mill 10",
+  "machine_type": "CNC_MILL",
+  "manufacturer": "Schuler",
+  "criticality": "B",
+  "commissioned_date": "2023-09-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P04-M011",
+  "plant_id": "P04",
+  "machine_name": "Injection Molder 11",
+  "machine_type": "INJECTION_MOLDER",
+  "manufacturer": "Siemens",
+  "criticality": "B",
+  "commissioned_date": "2021-09-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P04-M012",
+  "plant_id": "P04",
+  "machine_name": "Welding Station 12",
+  "machine_type": "WELDING_STATION",
+  "manufacturer": "Haas",
+  "criticality": "B",
+  "commissioned_date": "2016-03-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P04-M013",
+  "plant_id": "P04",
+  "machine_name": "Hydraulic Press 13",
+  "machine_type": "HYDRAULIC_PRESS",
+  "manufacturer": "Siemens",
+  "criticality": "A",
+  "commissioned_date": "2024-08-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P04-M014",
+  "plant_id": "P04",
+  "machine_name": "Robot Cell 14",
+  "machine_type": "ROBOT_CELL",
+  "manufacturer": "Haas",
+  "criticality": "A",
+  "commissioned_date": "2023-11-01",
+  "status": "ACTIVE"
+ },
+ {
+  "machine_id": "P04-M015",
+  "plant_id": "P04",
+  "machine_name": "Conveyor 15",
+  "machine_type": "CONVEYOR",
+  "manufacturer": "Haas",
+  "criticality": "C",
+  "commissioned_date": "2020-05-01",
+  "status": "ACTIVE"
+ }
+]

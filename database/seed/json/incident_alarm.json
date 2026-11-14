@@ -1,0 +1,1537 @@
+[
+ {
+  "incident_id": "INC-2026-000001",
+  "alarm_event_id": "ALM-P02-M008-000005",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000002",
+  "alarm_event_id": "ALM-P04-M010-000007",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000002",
+  "alarm_event_id": "ALM-P04-M010-000006",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000003",
+  "alarm_event_id": "ALM-P03-M011-000006",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000004",
+  "alarm_event_id": "ALM-P04-M008-000009",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000005",
+  "alarm_event_id": "ALM-P01-M012-000008",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000006",
+  "alarm_event_id": "ALM-P03-M003-000016",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000007",
+  "alarm_event_id": "ALM-P02-M005-000011",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000008",
+  "alarm_event_id": "ALM-P02-M004-000015",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000009",
+  "alarm_event_id": "ALM-P01-M008-000025",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000011",
+  "alarm_event_id": "ALM-P03-M003-000022",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000012",
+  "alarm_event_id": "ALM-P02-M015-000035",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000012",
+  "alarm_event_id": "ALM-P02-M015-000034",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000013",
+  "alarm_event_id": "ALM-P03-M002-000019",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000014",
+  "alarm_event_id": "ALM-P04-M004-000039",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000015",
+  "alarm_event_id": "ALM-P03-M013-000051",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000016",
+  "alarm_event_id": "ALM-P04-M008-000031",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000017",
+  "alarm_event_id": "ALM-P02-M002-000027",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000018",
+  "alarm_event_id": "ALM-P02-M006-000063",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000019",
+  "alarm_event_id": "ALM-P03-M001-000050",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000020",
+  "alarm_event_id": "ALM-P04-M001-000053",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000022",
+  "alarm_event_id": "ALM-P01-M006-000171",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000022",
+  "alarm_event_id": "ALM-P01-M006-000167",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000022",
+  "alarm_event_id": "ALM-P01-M006-000168",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000022",
+  "alarm_event_id": "ALM-P01-M006-000169",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000022",
+  "alarm_event_id": "ALM-P01-M006-000170",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000023",
+  "alarm_event_id": "ALM-P04-M008-000048",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000024",
+  "alarm_event_id": "ALM-P01-M003-000089",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000024",
+  "alarm_event_id": "ALM-P01-M003-000088",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000025",
+  "alarm_event_id": "ALM-P01-M004-000089",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000026",
+  "alarm_event_id": "ALM-P03-M012-000091",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000027",
+  "alarm_event_id": "ALM-P04-M001-000078",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000028",
+  "alarm_event_id": "ALM-P03-M013-000134",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000029",
+  "alarm_event_id": "ALM-P03-M006-000096",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000030",
+  "alarm_event_id": "ALM-P03-M009-000093",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000031",
+  "alarm_event_id": "ALM-P03-M007-000134",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000032",
+  "alarm_event_id": "ALM-P02-M003-000099",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000033",
+  "alarm_event_id": "ALM-P02-M011-000082",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000034",
+  "alarm_event_id": "ALM-P01-M009-000120",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000035",
+  "alarm_event_id": "ALM-P04-M010-000118",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000036",
+  "alarm_event_id": "ALM-P01-M007-000116",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000036",
+  "alarm_event_id": "ALM-P01-M007-000114",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000036",
+  "alarm_event_id": "ALM-P01-M007-000115",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000037",
+  "alarm_event_id": "ALM-P03-M012-000120",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000038",
+  "alarm_event_id": "ALM-P02-M006-000171",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000039",
+  "alarm_event_id": "ALM-P04-M008-000103",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000040",
+  "alarm_event_id": "ALM-P04-M010-000122",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000041",
+  "alarm_event_id": "ALM-P04-M008-000106",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000042",
+  "alarm_event_id": "ALM-P01-M012-000138",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000043",
+  "alarm_event_id": "ALM-P01-M015-000159",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000044",
+  "alarm_event_id": "ALM-P02-M011-000121",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000046",
+  "alarm_event_id": "ALM-P02-M013-000159",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000047",
+  "alarm_event_id": "ALM-P01-M007-000144",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000048",
+  "alarm_event_id": "ALM-P03-M010-000129",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000049",
+  "alarm_event_id": "ALM-P03-M002-000211",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000050",
+  "alarm_event_id": "ALM-P02-M012-000178",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000051",
+  "alarm_event_id": "ALM-P03-M008-000144",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000051",
+  "alarm_event_id": "ALM-P03-M008-000143",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000052",
+  "alarm_event_id": "ALM-P01-M006-000270",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000053",
+  "alarm_event_id": "ALM-P04-M006-000312",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000053",
+  "alarm_event_id": "ALM-P04-M006-000311",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000054",
+  "alarm_event_id": "ALM-P01-M013-000165",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000055",
+  "alarm_event_id": "ALM-P02-M003-000145",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000056",
+  "alarm_event_id": "ALM-P03-M004-000159",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000057",
+  "alarm_event_id": "ALM-P04-M012-000139",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000058",
+  "alarm_event_id": "ALM-P04-M010-000171",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000059",
+  "alarm_event_id": "ALM-P03-M010-000144",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000060",
+  "alarm_event_id": "ALM-P01-M005-000138",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000061",
+  "alarm_event_id": "ALM-P02-M008-000151",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000061",
+  "alarm_event_id": "ALM-P02-M008-000150",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000062",
+  "alarm_event_id": "ALM-P04-M004-000227",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000063",
+  "alarm_event_id": "ALM-P01-M011-000153",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000064",
+  "alarm_event_id": "ALM-P01-M003-000189",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000065",
+  "alarm_event_id": "ALM-P04-M014-000143",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000066",
+  "alarm_event_id": "ALM-P02-M001-000261",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000067",
+  "alarm_event_id": "ALM-P02-M003-000164",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000068",
+  "alarm_event_id": "ALM-P02-M012-000209",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000070",
+  "alarm_event_id": "ALM-P04-M010-000191",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000071",
+  "alarm_event_id": "ALM-P03-M002-000254",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000072",
+  "alarm_event_id": "ALM-P03-M013-000234",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000073",
+  "alarm_event_id": "ALM-P03-M006-000209",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000074",
+  "alarm_event_id": "ALM-P01-M006-000311",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000075",
+  "alarm_event_id": "ALM-P03-M012-000191",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000076",
+  "alarm_event_id": "ALM-P01-M005-000165",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000077",
+  "alarm_event_id": "ALM-P01-M001-000170",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000078",
+  "alarm_event_id": "ALM-P03-M014-000186",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000079",
+  "alarm_event_id": "ALM-P03-M001-000178",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000079",
+  "alarm_event_id": "ALM-P03-M001-000177",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000080",
+  "alarm_event_id": "ALM-P02-M007-000181",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000081",
+  "alarm_event_id": "ALM-P01-M001-000195",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000081",
+  "alarm_event_id": "ALM-P01-M001-000194",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000082",
+  "alarm_event_id": "ALM-P03-M013-000260",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000083",
+  "alarm_event_id": "ALM-P04-M001-000243",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000083",
+  "alarm_event_id": "ALM-P04-M001-000242",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000085",
+  "alarm_event_id": "ALM-P04-M009-000402",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000086",
+  "alarm_event_id": "ALM-P03-M005-000288",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000086",
+  "alarm_event_id": "ALM-P03-M005-000286",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000086",
+  "alarm_event_id": "ALM-P03-M005-000287",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000087",
+  "alarm_event_id": "ALM-P02-M011-000226",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000088",
+  "alarm_event_id": "ALM-P04-M007-000280",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000089",
+  "alarm_event_id": "ALM-P01-M014-000300",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000090",
+  "alarm_event_id": "ALM-P03-M010-000227",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000091",
+  "alarm_event_id": "ALM-P01-M012-000249",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000092",
+  "alarm_event_id": "ALM-P01-M009-000263",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000093",
+  "alarm_event_id": "ALM-P04-M001-000268",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000094",
+  "alarm_event_id": "ALM-P03-M013-000281",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000095",
+  "alarm_event_id": "ALM-P01-M013-000253",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000096",
+  "alarm_event_id": "ALM-P04-M014-000243",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000097",
+  "alarm_event_id": "ALM-P03-M006-000271",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000098",
+  "alarm_event_id": "ALM-P04-M013-000279",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000099",
+  "alarm_event_id": "ALM-P02-M007-000229",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000100",
+  "alarm_event_id": "ALM-P04-M009-000433",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000101",
+  "alarm_event_id": "ALM-P03-M014-000237",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000102",
+  "alarm_event_id": "ALM-P04-M009-000437",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000103",
+  "alarm_event_id": "ALM-P03-M011-000295",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000104",
+  "alarm_event_id": "ALM-P03-M002-000334",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000105",
+  "alarm_event_id": "ALM-P01-M008-000392",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000106",
+  "alarm_event_id": "ALM-P02-M011-000274",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000107",
+  "alarm_event_id": "ALM-P04-M008-000264",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000108",
+  "alarm_event_id": "ALM-P04-M009-000451",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000109",
+  "alarm_event_id": "ALM-P01-M006-000405",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000110",
+  "alarm_event_id": "ALM-P03-M005-000351",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000110",
+  "alarm_event_id": "ALM-P03-M005-000350",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000111",
+  "alarm_event_id": "ALM-P01-M006-000409",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000112",
+  "alarm_event_id": "ALM-P04-M009-000454",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000113",
+  "alarm_event_id": "ALM-P03-M002-000361",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000114",
+  "alarm_event_id": "ALM-P03-M012-000276",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000115",
+  "alarm_event_id": "ALM-P04-M010-000317",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000116",
+  "alarm_event_id": "ALM-P02-M008-000487",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000117",
+  "alarm_event_id": "ALM-P02-M013-000329",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000118",
+  "alarm_event_id": "ALM-P03-M006-000322",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000119",
+  "alarm_event_id": "ALM-P02-M010-000273",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000119",
+  "alarm_event_id": "ALM-P02-M010-000272",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000120",
+  "alarm_event_id": "ALM-P02-M008-000492",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000121",
+  "alarm_event_id": "ALM-P01-M007-000405",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000123",
+  "alarm_event_id": "ALM-P03-M006-000354",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000124",
+  "alarm_event_id": "ALM-P02-M011-000336",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000125",
+  "alarm_event_id": "ALM-P01-M009-000354",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000126",
+  "alarm_event_id": "ALM-P03-M013-000380",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000127",
+  "alarm_event_id": "ALM-P03-M003-000316",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000128",
+  "alarm_event_id": "ALM-P03-M005-000418",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000129",
+  "alarm_event_id": "ALM-P02-M003-000391",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000129",
+  "alarm_event_id": "ALM-P02-M003-000390",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000130",
+  "alarm_event_id": "ALM-P02-M013-000356",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000131",
+  "alarm_event_id": "ALM-P03-M013-000425",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000132",
+  "alarm_event_id": "ALM-P03-M011-000379",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000133",
+  "alarm_event_id": "ALM-P03-M013-000432",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000134",
+  "alarm_event_id": "ALM-P04-M012-000390",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000135",
+  "alarm_event_id": "ALM-P02-M009-000481",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000136",
+  "alarm_event_id": "ALM-P03-M015-000297",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000137",
+  "alarm_event_id": "ALM-P04-M013-000391",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000138",
+  "alarm_event_id": "ALM-P03-M013-000469",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000139",
+  "alarm_event_id": "ALM-P04-M010-000394",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000140",
+  "alarm_event_id": "ALM-P03-M010-000337",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000141",
+  "alarm_event_id": "ALM-P04-M001-000374",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000141",
+  "alarm_event_id": "ALM-P04-M001-000373",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000142",
+  "alarm_event_id": "ALM-P03-M006-000406",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000143",
+  "alarm_event_id": "ALM-P02-M006-000576",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000144",
+  "alarm_event_id": "ALM-P04-M006-000535",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000145",
+  "alarm_event_id": "ALM-P04-M009-000545",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000146",
+  "alarm_event_id": "ALM-P03-M014-000375",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000147",
+  "alarm_event_id": "ALM-P02-M003-000448",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000148",
+  "alarm_event_id": "ALM-P03-M001-000353",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000149",
+  "alarm_event_id": "ALM-P03-M014-000385",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000150",
+  "alarm_event_id": "ALM-P03-M002-000447",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000150",
+  "alarm_event_id": "ALM-P03-M002-000445",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000150",
+  "alarm_event_id": "ALM-P03-M002-000446",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000151",
+  "alarm_event_id": "ALM-P01-M009-000426",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000151",
+  "alarm_event_id": "ALM-P01-M009-000425",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000152",
+  "alarm_event_id": "ALM-P03-M010-000363",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000153",
+  "alarm_event_id": "ALM-P03-M014-000401",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000154",
+  "alarm_event_id": "ALM-P02-M004-000470",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000155",
+  "alarm_event_id": "ALM-P01-M002-000385",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000156",
+  "alarm_event_id": "ALM-P01-M012-000413",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000157",
+  "alarm_event_id": "ALM-P01-M009-000442",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000158",
+  "alarm_event_id": "ALM-P03-M007-000568",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000159",
+  "alarm_event_id": "ALM-P04-M009-000575",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000159",
+  "alarm_event_id": "ALM-P04-M009-000574",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000160",
+  "alarm_event_id": "ALM-P02-M012-000501",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000160",
+  "alarm_event_id": "ALM-P02-M012-000500",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000162",
+  "alarm_event_id": "ALM-P01-M001-000397",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000162",
+  "alarm_event_id": "ALM-P01-M001-000396",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000163",
+  "alarm_event_id": "ALM-P01-M014-000504",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000164",
+  "alarm_event_id": "ALM-P02-M007-000400",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000165",
+  "alarm_event_id": "ALM-P03-M007-000578",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000166",
+  "alarm_event_id": "ALM-P01-M002-000415",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000167",
+  "alarm_event_id": "ALM-P02-M003-000633",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000168",
+  "alarm_event_id": "ALM-P03-M014-000429",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000169",
+  "alarm_event_id": "ALM-P04-M011-000570",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000170",
+  "alarm_event_id": "ALM-P02-M014-000437",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000171",
+  "alarm_event_id": "ALM-P01-M004-000450",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000172",
+  "alarm_event_id": "ALM-P02-M002-000543",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000173",
+  "alarm_event_id": "ALM-P03-M013-000574",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000174",
+  "alarm_event_id": "ALM-P02-M002-000549",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000175",
+  "alarm_event_id": "ALM-P04-M010-000494",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000175",
+  "alarm_event_id": "ALM-P04-M010-000493",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000176",
+  "alarm_event_id": "ALM-P02-M008-000635",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000176",
+  "alarm_event_id": "ALM-P02-M008-000634",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000177",
+  "alarm_event_id": "ALM-P03-M002-000532",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000178",
+  "alarm_event_id": "ALM-P04-M014-000550",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000179",
+  "alarm_event_id": "ALM-P03-M002-000535",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000179",
+  "alarm_event_id": "ALM-P03-M002-000534",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000180",
+  "alarm_event_id": "ALM-P04-M012-000499",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000181",
+  "alarm_event_id": "ALM-P02-M008-000646",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000182",
+  "alarm_event_id": "ALM-P02-M015-000453",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000183",
+  "alarm_event_id": "ALM-P01-M006-000589",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000184",
+  "alarm_event_id": "ALM-P03-M010-000426",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000184",
+  "alarm_event_id": "ALM-P03-M010-000425",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000186",
+  "alarm_event_id": "ALM-P04-M004-000819",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000187",
+  "alarm_event_id": "ALM-P04-M009-000652",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000188",
+  "alarm_event_id": "ALM-P04-M012-000600",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000188",
+  "alarm_event_id": "ALM-P04-M012-000599",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000189",
+  "alarm_event_id": "ALM-P03-M013-000631",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000190",
+  "alarm_event_id": "ALM-P03-M002-000559",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000191",
+  "alarm_event_id": "ALM-P02-M006-000736",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000192",
+  "alarm_event_id": "ALM-P04-M009-000657",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000192",
+  "alarm_event_id": "ALM-P04-M009-000656",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000193",
+  "alarm_event_id": "ALM-P04-M015-000531",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000194",
+  "alarm_event_id": "ALM-P02-M002-000619",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000194",
+  "alarm_event_id": "ALM-P02-M002-000618",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000195",
+  "alarm_event_id": "ALM-P03-M015-000462",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000196",
+  "alarm_event_id": "ALM-P04-M012-000629",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000197",
+  "alarm_event_id": "ALM-P04-M009-000675",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000198",
+  "alarm_event_id": "ALM-P03-M005-000662",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000199",
+  "alarm_event_id": "ALM-P03-M012-000504",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000200",
+  "alarm_event_id": "ALM-P02-M013-000532",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000200",
+  "alarm_event_id": "ALM-P02-M013-000531",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000201",
+  "alarm_event_id": "ALM-P04-M005-000581",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000202",
+  "alarm_event_id": "ALM-P01-M015-000676",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000203",
+  "alarm_event_id": "ALM-P03-M015-000490",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000203",
+  "alarm_event_id": "ALM-P03-M015-000489",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000204",
+  "alarm_event_id": "ALM-P03-M011-000547",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000205",
+  "alarm_event_id": "ALM-P03-M008-000607",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000206",
+  "alarm_event_id": "ALM-P04-M013-000549",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000207",
+  "alarm_event_id": "ALM-P04-M003-000548",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000208",
+  "alarm_event_id": "ALM-P01-M011-000520",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000209",
+  "alarm_event_id": "ALM-P01-M007-000638",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000209",
+  "alarm_event_id": "ALM-P01-M007-000637",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000210",
+  "alarm_event_id": "ALM-P04-M010-000601",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000211",
+  "alarm_event_id": "ALM-P03-M013-000712",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000212",
+  "alarm_event_id": "ALM-P01-M004-000559",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000213",
+  "alarm_event_id": "ALM-P03-M008-000629",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000214",
+  "alarm_event_id": "ALM-P04-M002-000663",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000215",
+  "alarm_event_id": "ALM-P02-M007-000538",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000215",
+  "alarm_event_id": "ALM-P02-M007-000537",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000216",
+  "alarm_event_id": "ALM-P03-M002-000614",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000217",
+  "alarm_event_id": "ALM-P02-M004-000681",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000219",
+  "alarm_event_id": "ALM-P01-M009-000624",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000219",
+  "alarm_event_id": "ALM-P01-M009-000622",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000219",
+  "alarm_event_id": "ALM-P01-M009-000623",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000220",
+  "alarm_event_id": "ALM-P02-M006-000835",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000221",
+  "alarm_event_id": "ALM-P02-M001-000887",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000222",
+  "alarm_event_id": "ALM-P02-M010-000656",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000222",
+  "alarm_event_id": "ALM-P02-M010-000655",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000223",
+  "alarm_event_id": "ALM-P03-M003-000575",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000224",
+  "alarm_event_id": "ALM-P04-M010-000623",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000225",
+  "alarm_event_id": "ALM-P03-M003-000588",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000226",
+  "alarm_event_id": "ALM-P04-M001-000793",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000227",
+  "alarm_event_id": "ALM-P03-M002-000657",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000228",
+  "alarm_event_id": "ALM-P04-M010-000652",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000229",
+  "alarm_event_id": "ALM-P04-M003-000629",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000230",
+  "alarm_event_id": "ALM-P04-M002-000697",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000231",
+  "alarm_event_id": "ALM-P03-M014-000616",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000232",
+  "alarm_event_id": "ALM-P03-M013-000786",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000232",
+  "alarm_event_id": "ALM-P03-M013-000785",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000233",
+  "alarm_event_id": "ALM-P03-M002-000680",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000233",
+  "alarm_event_id": "ALM-P03-M002-000679",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000234",
+  "alarm_event_id": "ALM-P01-M008-000744",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000235",
+  "alarm_event_id": "ALM-P03-M014-000631",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000235",
+  "alarm_event_id": "ALM-P03-M014-000630",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000236",
+  "alarm_event_id": "ALM-P01-M009-000671",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000237",
+  "alarm_event_id": "ALM-P02-M012-000760",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000238",
+  "alarm_event_id": "ALM-P02-M015-000592",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000239",
+  "alarm_event_id": "ALM-P04-M001-000828",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000240",
+  "alarm_event_id": "ALM-P04-M002-000730",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000241",
+  "alarm_event_id": "ALM-P03-M014-000652",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000243",
+  "alarm_event_id": "ALM-P03-M010-000586",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000244",
+  "alarm_event_id": "ALM-P03-M005-000892",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000245",
+  "alarm_event_id": "ALM-P01-M002-000618",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000246",
+  "alarm_event_id": "ALM-P02-M004-000773",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000247",
+  "alarm_event_id": "ALM-P01-M003-000649",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000248",
+  "alarm_event_id": "ALM-P03-M014-000675",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000248",
+  "alarm_event_id": "ALM-P03-M014-000674",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000249",
+  "alarm_event_id": "ALM-P02-M014-000617",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000250",
+  "alarm_event_id": "ALM-P03-M012-000762",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000251",
+  "alarm_event_id": "ALM-P04-M008-000750",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000252",
+  "alarm_event_id": "ALM-P01-M011-000645",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000253",
+  "alarm_event_id": "ALM-P01-M012-000904",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000254",
+  "alarm_event_id": "ALM-P03-M011-000773",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000255",
+  "alarm_event_id": "ALM-P02-M001-001063",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000255",
+  "alarm_event_id": "ALM-P02-M001-001062",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000256",
+  "alarm_event_id": "ALM-P02-M007-000649",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000257",
+  "alarm_event_id": "ALM-P01-M003-000688",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000258",
+  "alarm_event_id": "ALM-P03-M013-000883",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000259",
+  "alarm_event_id": "ALM-P04-M001-000903",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000260",
+  "alarm_event_id": "ALM-P03-M005-000994",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000261",
+  "alarm_event_id": "ALM-P02-M014-000669",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000262",
+  "alarm_event_id": "ALM-P02-M015-000688",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000262",
+  "alarm_event_id": "ALM-P02-M015-000687",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000263",
+  "alarm_event_id": "ALM-P02-M006-001024",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000263",
+  "alarm_event_id": "ALM-P02-M006-001022",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000263",
+  "alarm_event_id": "ALM-P02-M006-001023",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000264",
+  "alarm_event_id": "ALM-P04-M010-000782",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000264",
+  "alarm_event_id": "ALM-P04-M010-000781",
+  "link_role": "CONTEXT"
+ },
+ {
+  "incident_id": "INC-2026-000265",
+  "alarm_event_id": "ALM-P04-M011-000919",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000266",
+  "alarm_event_id": "ALM-P01-M012-000959",
+  "link_role": "TRIGGER"
+ },
+ {
+  "incident_id": "INC-2026-000266",
+  "alarm_event_id": "ALM-P01-M012-000958",
+  "link_role": "CONTEXT"
+ }
+]

@@ -1,0 +1,93 @@
+{
+  "generator": "plant-safety-event-analytics synthetic generator",
+  "generator_version": "1.0.0",
+  "seed": 20261022,
+  "scale": "full",
+  "command": "python -m generator.run --scale full --seed 20261022",
+  "window_start": "2026-10-01 00:00:00.000",
+  "window_end": "2026-10-31 00:00:00.000",
+  "provenance": "100% synthetic data produced by this generator; no external or personal data used.",
+  "tables": {
+    "plant": {
+      "rows": 4,
+      "csv_sha256": "c854f796c2de91a206cf88b38fed9fbea48e55cbd79f0b915002c62bf3afbc21",
+      "json_sha256": "bbec03f3fce189f9b57f4b699ca47edd1957291e3066dd34cd281add497d0818"
+    },
+    "safety_zone": {
+      "rows": 20,
+      "csv_sha256": "bf49df1918fc9083e2366a20b6ae47f6ceeae7655e94aa2c9fc4a7f1b192dd61",
+      "json_sha256": "d3ee463ccb2a3a809ea3205984ed78fe7bbbe50cf63b43c6e345718c8745aa8f"
+    },
+    "machine": {
+      "rows": 60,
+      "csv_sha256": "6e1086bced1d3f449648aec85c03ccb9a780d9bf3cbfc2751d6b8a407cfc31bf",
+      "json_sha256": "799d6fec0d5d3f8f1ae854a9f0732ce53091d6d2d2d0303b087827f709e2743a"
+    },
+    "machine_zone": {
+      "rows": 76,
+      "csv_sha256": "9c08a8049c63aafd037bd73672d876b54520f46f2e0a9fb52503ec55be7a039e",
+      "json_sha256": "54ab4b350a6d5169ca1eb0402c23dc7c0f63ac82e20257293137532c05e685f8"
+    },
+    "interlock": {
+      "rows": 172,
+      "csv_sha256": "53d809067b47d8d56715f5289a05195368e38671d397a19517957a73470db3c1",
+      "json_sha256": "96c9e21758786be8e8f8c8d72f67be15048d12b2b73d1e7e43e5ad43e80ff3b0"
+    },
+    "alarm_definition": {
+      "rows": 200,
+      "csv_sha256": "f0202f383f12eaa6d31d35446d41c7e475014f1b0310f55cfbfa7d9838136a0e",
+      "json_sha256": "2134ae06de08c5431dd4c5b46011e740cf8520511a59c65dd11ffcee4ac520d3"
+    },
+    "staff": {
+      "rows": 44,
+      "csv_sha256": "4ed2998fad380379a919a006210e5bd65001cb7f7defc721d87681b4e3034862",
+      "json_sha256": "d8ddf8c3935155d0185b8d520e1dca61f25e81dbcb5c3010cfe6613fcce0438e"
+    },
+    "operator_shift": {
+      "rows": 364,
+      "csv_sha256": "8fce8968d994f2242767da7282eaf4ec53d2cd5c37fb351bf75b993b0dd38cea",
+      "json_sha256": "4bad50ee606f71f45e5811b8fd2dd13358539a43494c4b092bb9afe3c6b42fa8"
+    },
+    "machine_state_event": {
+      "rows": 20991,
+      "csv_sha256": "5d103ae991a72eb8ddf2ebf2cd667cc0444ecd8b6d4c22e7c242f81a9c618167",
+      "json_sha256": "3e73726176a5114f3c3a76c5573e8aa1782368423c54b1288a3214f503c97082"
+    },
+    "interlock_state_event": {
+      "rows": 1813,
+      "csv_sha256": "6f3cc5ace8b17deeeb557e0e6a92e17994b64d2eee722124f2114f63fe41e09f",
+      "json_sha256": "ffa4f7daa9f915b7b4e672fe4458c9fc2c8ecbd204fbe689e2154d550145704b"
+    },
+    "alarm_event": {
+      "rows": 50000,
+      "csv_sha256": "3f7df36310669b2a6c476c505e14105943244f6e874321b09fc87690549893fc",
+      "json_sha256": "ce7b3f9b02dbb3e93bbc2d36d8526e950edf6a46fdad28578e80f3c733d0f51b"
+    },
+    "acknowledgement": {
+      "rows": 37421,
+      "csv_sha256": "1b79e5d6096eb09c4fa49e123b78d856f4bcb81535f4993e7b8de54ab328e765",
+      "json_sha256": "d878170e170b4553c339386dcb22c705370322a1c5ea0c9c06911f760fb1455d"
+    },
+    "incident": {
+      "rows": 266,
+      "csv_sha256": "a9557ae6101ed463c1ec9da14c5943f570643edee2e8b7b7cfffe98b2721b1b9",
+      "json_sha256": "22fc4218a41a1662a026e23ea3769d7457c093ddf59ba47ec40f5166ade3f6af"
+    },
+    "incident_alarm": {
+      "rows": 307,
+      "csv_sha256": "fe5406567246fcec19d61682da579fbb2d2aa403eb0f1c0d8a8186dcc36f06b1",
+      "json_sha256": "541fd42f181260ed0619046db4b97321780fec3d38412316e536cc9786439fb3"
+    },
+    "corrective_action": {
+      "rows": 391,
+      "csv_sha256": "4330a229bce60eebc2d255073df16267d1ba2aed9ab065217270908660fb10d2",
+      "json_sha256": "a191481edc0487f08977b7df634cb0795c2ac52778b0f02256a3ebbe17a4ea87"
+    }
+  },
+  "ground_truth": {
+    "rows": 686,
+    "csv_sha256": "803a6a88776390c64f5ebd6ca17a69b7a22c8e4f4153d18d2d4d210447de703b"
+  },
+  "seed_sql_sha256": "04270fb30f955d13b75268f663501df1840caf9d3193e8a20b7e248091ebf44a",
+  "combined_sha256": "d40e71611fb01a97f449312c86ab5aba827253f17b9b566e73fafe2100340661"
+}

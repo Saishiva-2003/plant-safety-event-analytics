@@ -1,0 +1,202 @@
+[
+ {
+  "zone_id": "SAFE-P01-001",
+  "plant_id": "P01",
+  "zone_name": "Press Line 1",
+  "zone_type": "PRESS_AREA",
+  "hazard_level": 5,
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "status": "ACTIVE"
+ },
+ {
+  "zone_id": "SAFE-P01-002",
+  "plant_id": "P01",
+  "zone_name": "Robot Cell Area 2",
+  "zone_type": "ROBOT_CELL",
+  "hazard_level": 4,
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "status": "ACTIVE"
+ },
+ {
+  "zone_id": "SAFE-P01-003",
+  "plant_id": "P01",
+  "zone_name": "Machining Bay 3",
+  "zone_type": "MACHINING",
+  "hazard_level": 3,
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "status": "ACTIVE"
+ },
+ {
+  "zone_id": "SAFE-P01-004",
+  "plant_id": "P01",
+  "zone_name": "Assembly Line 4",
+  "zone_type": "ASSEMBLY",
+  "hazard_level": 2,
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "status": "ACTIVE"
+ },
+ {
+  "zone_id": "SAFE-P01-005",
+  "plant_id": "P01",
+  "zone_name": "Material Handling 5",
+  "zone_type": "LOGISTICS",
+  "hazard_level": 2,
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "status": "ACTIVE"
+ },
+ {
+  "zone_id": "SAFE-P02-001",
+  "plant_id": "P02",
+  "zone_name": "Press Line 1",
+  "zone_type": "PRESS_AREA",
+  "hazard_level": 5,
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "status": "ACTIVE"
+ },
+ {
+  "zone_id": "SAFE-P02-002",
+  "plant_id": "P02",
+  "zone_name": "Robot Cell Area 2",
+  "zone_type": "ROBOT_CELL",
+  "hazard_level": 4,
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "status": "ACTIVE"
+ },
+ {
+  "zone_id": "SAFE-P02-003",
+  "plant_id": "P02",
+  "zone_name": "Machining Bay 3",
+  "zone_type": "MACHINING",
+  "hazard_level": 3,
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "status": "ACTIVE"
+ },
+ {
+  "zone_id": "SAFE-P02-004",
+  "plant_id": "P02",
+  "zone_name": "Assembly Line 4",
+  "zone_type": "ASSEMBLY",
+  "hazard_level": 2,
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "status": "ACTIVE"
+ },
+ {
+  "zone_id": "SAFE-P02-005",
+  "plant_id": "P02",
+  "zone_name": "Material Handling 5",
+  "zone_type": "LOGISTICS",
+  "hazard_level": 2,
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "status": "ACTIVE"
+ },
+ {
+  "zone_id": "SAFE-P03-001",
+  "plant_id": "P03",
+  "zone_name": "Press Line 1",
+  "zone_type": "PRESS_AREA",
+  "hazard_level": 5,
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "status": "ACTIVE"
+ },
+ {
+  "zone_id": "SAFE-P03-002",
+  "plant_id": "P03",
+  "zone_name": "Robot Cell Area 2",
+  "zone_type": "ROBOT_CELL",
+  "hazard_level": 4,
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "status": "ACTIVE"
+ },
+ {
+  "zone_id": "SAFE-P03-003",
+  "plant_id": "P03",
+  "zone_name": "Machining Bay 3",
+  "zone_type": "MACHINING",
+  "hazard_level": 3,
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "status": "ACTIVE"
+ },
+ {
+  "zone_id": "SAFE-P03-004",
+  "plant_id": "P03",
+  "zone_name": "Assembly Line 4",
+  "zone_type": "ASSEMBLY",
+  "hazard_level": 2,
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "status": "ACTIVE"
+ },
+ {
+  "zone_id": "SAFE-P03-005",
+  "plant_id": "P03",
+  "zone_name": "Material Handling 5",
+  "zone_type": "LOGISTICS",
+  "hazard_level": 2,
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "status": "ACTIVE"
+ },
+ {
+  "zone_id": "SAFE-P04-001",
+  "plant_id": "P04",
+  "zone_name": "Press Line 1",
+  "zone_type": "PRESS_AREA",
+  "hazard_level": 5,
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "status": "ACTIVE"
+ },
+ {
+  "zone_id": "SAFE-P04-002",
+  "plant_id": "P04",
+  "zone_name": "Robot Cell Area 2",
+  "zone_type": "ROBOT_CELL",
+  "hazard_level": 4,
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "status": "ACTIVE"
+ },
+ {
+  "zone_id": "SAFE-P04-003",
+  "plant_id": "P04",
+  "zone_name": "Machining Bay 3",
+  "zone_type": "MACHINING",
+  "hazard_level": 3,
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "status": "ACTIVE"
+ },
+ {
+  "zone_id": "SAFE-P04-004",
+  "plant_id": "P04",
+  "zone_name": "Assembly Line 4",
+  "zone_type": "ASSEMBLY",
+  "hazard_level": 2,
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "status": "ACTIVE"
+ },
+ {
+  "zone_id": "SAFE-P04-005",
+  "plant_id": "P04",
+  "zone_name": "Material Handling 5",
+  "zone_type": "LOGISTICS",
+  "hazard_level": 2,
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "status": "ACTIVE"
+ }
+]

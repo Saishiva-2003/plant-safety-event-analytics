@@ -1,0 +1,534 @@
+[
+ {
+  "machine_id": "P01-M001",
+  "zone_id": "SAFE-P01-001",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P01-M001",
+  "zone_id": "SAFE-P01-003",
+  "is_primary": false,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P01-M002",
+  "zone_id": "SAFE-P01-002",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P01-M002",
+  "zone_id": "SAFE-P01-003",
+  "is_primary": false,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P01-M003",
+  "zone_id": "SAFE-P01-005",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P01-M004",
+  "zone_id": "SAFE-P01-003",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P01-M005",
+  "zone_id": "SAFE-P01-003",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P01-M005",
+  "zone_id": "SAFE-P01-005",
+  "is_primary": false,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P01-M006",
+  "zone_id": "SAFE-P01-002",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P01-M007",
+  "zone_id": "SAFE-P01-001",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P01-M007",
+  "zone_id": "SAFE-P01-003",
+  "is_primary": false,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P01-M008",
+  "zone_id": "SAFE-P01-002",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P01-M009",
+  "zone_id": "SAFE-P01-005",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P01-M010",
+  "zone_id": "SAFE-P01-003",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P01-M011",
+  "zone_id": "SAFE-P01-003",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P01-M012",
+  "zone_id": "SAFE-P01-002",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P01-M013",
+  "zone_id": "SAFE-P01-001",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P01-M014",
+  "zone_id": "SAFE-P01-002",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P01-M015",
+  "zone_id": "SAFE-P01-005",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P02-M001",
+  "zone_id": "SAFE-P02-001",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P02-M002",
+  "zone_id": "SAFE-P02-002",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P02-M003",
+  "zone_id": "SAFE-P02-005",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P02-M003",
+  "zone_id": "SAFE-P02-004",
+  "is_primary": false,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P02-M004",
+  "zone_id": "SAFE-P02-003",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P02-M005",
+  "zone_id": "SAFE-P02-003",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P02-M006",
+  "zone_id": "SAFE-P02-002",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P02-M006",
+  "zone_id": "SAFE-P02-004",
+  "is_primary": false,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P02-M007",
+  "zone_id": "SAFE-P02-001",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P02-M007",
+  "zone_id": "SAFE-P02-004",
+  "is_primary": false,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P02-M008",
+  "zone_id": "SAFE-P02-002",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P02-M009",
+  "zone_id": "SAFE-P02-005",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P02-M010",
+  "zone_id": "SAFE-P02-003",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P02-M011",
+  "zone_id": "SAFE-P02-003",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P02-M012",
+  "zone_id": "SAFE-P02-002",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P02-M013",
+  "zone_id": "SAFE-P02-001",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P02-M014",
+  "zone_id": "SAFE-P02-002",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P02-M015",
+  "zone_id": "SAFE-P02-005",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P03-M001",
+  "zone_id": "SAFE-P03-001",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P03-M002",
+  "zone_id": "SAFE-P03-002",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P03-M002",
+  "zone_id": "SAFE-P03-003",
+  "is_primary": false,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P03-M003",
+  "zone_id": "SAFE-P03-005",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P03-M004",
+  "zone_id": "SAFE-P03-003",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P03-M005",
+  "zone_id": "SAFE-P03-003",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P03-M006",
+  "zone_id": "SAFE-P03-002",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P03-M006",
+  "zone_id": "SAFE-P03-001",
+  "is_primary": false,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P03-M007",
+  "zone_id": "SAFE-P03-001",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P03-M008",
+  "zone_id": "SAFE-P03-002",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P03-M008",
+  "zone_id": "SAFE-P03-003",
+  "is_primary": false,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P03-M009",
+  "zone_id": "SAFE-P03-005",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P03-M010",
+  "zone_id": "SAFE-P03-003",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P03-M010",
+  "zone_id": "SAFE-P03-004",
+  "is_primary": false,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P03-M011",
+  "zone_id": "SAFE-P03-003",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P03-M012",
+  "zone_id": "SAFE-P03-002",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P03-M012",
+  "zone_id": "SAFE-P03-004",
+  "is_primary": false,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P03-M013",
+  "zone_id": "SAFE-P03-001",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P03-M014",
+  "zone_id": "SAFE-P03-002",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P03-M015",
+  "zone_id": "SAFE-P03-005",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P04-M001",
+  "zone_id": "SAFE-P04-001",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P04-M002",
+  "zone_id": "SAFE-P04-002",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P04-M003",
+  "zone_id": "SAFE-P04-005",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P04-M004",
+  "zone_id": "SAFE-P04-003",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P04-M005",
+  "zone_id": "SAFE-P04-003",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P04-M005",
+  "zone_id": "SAFE-P04-005",
+  "is_primary": false,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P04-M006",
+  "zone_id": "SAFE-P04-002",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P04-M006",
+  "zone_id": "SAFE-P04-004",
+  "is_primary": false,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P04-M007",
+  "zone_id": "SAFE-P04-001",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P04-M008",
+  "zone_id": "SAFE-P04-002",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P04-M009",
+  "zone_id": "SAFE-P04-005",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P04-M009",
+  "zone_id": "SAFE-P04-002",
+  "is_primary": false,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P04-M010",
+  "zone_id": "SAFE-P04-003",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P04-M011",
+  "zone_id": "SAFE-P04-003",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P04-M012",
+  "zone_id": "SAFE-P04-002",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P04-M013",
+  "zone_id": "SAFE-P04-001",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P04-M013",
+  "zone_id": "SAFE-P04-003",
+  "is_primary": false,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P04-M014",
+  "zone_id": "SAFE-P04-002",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ },
+ {
+  "machine_id": "P04-M015",
+  "zone_id": "SAFE-P04-005",
+  "is_primary": true,
+  "effective_from": "2024-01-01",
+  "effective_to": null
+ }
+]

@@ -1,0 +1,7 @@
+# Normal source files: let Git handle line endings
+* text=auto
+
+# Generated data: keep byte-exact (SHA-256 checksums in database/reports/manifest.json)
+database/seed/** -text
+database/ground_truth/** -text
+database/reports/** -text

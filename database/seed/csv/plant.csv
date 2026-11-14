@@ -1,0 +1,5 @@
+plant_id,plant_name,city,state,country,timezone,status,opened_date
+P01,Pune Stamping Plant,Pune,Maharashtra,IN,Asia/Kolkata,ACTIVE,2011-04-01
+P02,Chennai Assembly Plant,Chennai,Tamil Nadu,IN,Asia/Kolkata,ACTIVE,2012-04-01
+P03,Hosur Machining Plant,Hosur,Tamil Nadu,IN,Asia/Kolkata,ACTIVE,2013-04-01
+P04,Sanand Moulding Plant,Sanand,Gujarat,IN,Asia/Kolkata,ACTIVE,2014-04-01

@@ -1,0 +1,3278 @@
+[
+ {
+  "shift_id": "SHF-P01-20260930-C",
+  "plant_id": "P01",
+  "shift_code": "C",
+  "shift_date": "2026-09-30",
+  "start_ts": "2026-09-30 22:00:00.000",
+  "end_ts": "2026-10-01 06:00:00.000",
+  "operator_id": "OP-P01-08"
+ },
+ {
+  "shift_id": "SHF-P01-20261001-A",
+  "plant_id": "P01",
+  "shift_code": "A",
+  "shift_date": "2026-10-01",
+  "start_ts": "2026-10-01 06:00:00.000",
+  "end_ts": "2026-10-01 14:00:00.000",
+  "operator_id": "OP-P01-06"
+ },
+ {
+  "shift_id": "SHF-P01-20261001-B",
+  "plant_id": "P01",
+  "shift_code": "B",
+  "shift_date": "2026-10-01",
+  "start_ts": "2026-10-01 14:00:00.000",
+  "end_ts": "2026-10-01 22:00:00.000",
+  "operator_id": "OP-P01-07"
+ },
+ {
+  "shift_id": "SHF-P01-20261001-C",
+  "plant_id": "P01",
+  "shift_code": "C",
+  "shift_date": "2026-10-01",
+  "start_ts": "2026-10-01 22:00:00.000",
+  "end_ts": "2026-10-02 06:00:00.000",
+  "operator_id": "OP-P01-01"
+ },
+ {
+  "shift_id": "SHF-P01-20261002-A",
+  "plant_id": "P01",
+  "shift_code": "A",
+  "shift_date": "2026-10-02",
+  "start_ts": "2026-10-02 06:00:00.000",
+  "end_ts": "2026-10-02 14:00:00.000",
+  "operator_id": "OP-P01-01"
+ },
+ {
+  "shift_id": "SHF-P01-20261002-B",
+  "plant_id": "P01",
+  "shift_code": "B",
+  "shift_date": "2026-10-02",
+  "start_ts": "2026-10-02 14:00:00.000",
+  "end_ts": "2026-10-02 22:00:00.000",
+  "operator_id": "OP-P01-05"
+ },
+ {
+  "shift_id": "SHF-P01-20261002-C",
+  "plant_id": "P01",
+  "shift_code": "C",
+  "shift_date": "2026-10-02",
+  "start_ts": "2026-10-02 22:00:00.000",
+  "end_ts": "2026-10-03 06:00:00.000",
+  "operator_id": "OP-P01-07"
+ },
+ {
+  "shift_id": "SHF-P01-20261003-A",
+  "plant_id": "P01",
+  "shift_code": "A",
+  "shift_date": "2026-10-03",
+  "start_ts": "2026-10-03 06:00:00.000",
+  "end_ts": "2026-10-03 14:00:00.000",
+  "operator_id": "OP-P01-05"
+ },
+ {
+  "shift_id": "SHF-P01-20261003-B",
+  "plant_id": "P01",
+  "shift_code": "B",
+  "shift_date": "2026-10-03",
+  "start_ts": "2026-10-03 14:00:00.000",
+  "end_ts": "2026-10-03 22:00:00.000",
+  "operator_id": "OP-P01-02"
+ },
+ {
+  "shift_id": "SHF-P01-20261003-C",
+  "plant_id": "P01",
+  "shift_code": "C",
+  "shift_date": "2026-10-03",
+  "start_ts": "2026-10-03 22:00:00.000",
+  "end_ts": "2026-10-04 06:00:00.000",
+  "operator_id": "OP-P01-03"
+ },
+ {
+  "shift_id": "SHF-P01-20261004-A",
+  "plant_id": "P01",
+  "shift_code": "A",
+  "shift_date": "2026-10-04",
+  "start_ts": "2026-10-04 06:00:00.000",
+  "end_ts": "2026-10-04 14:00:00.000",
+  "operator_id": "OP-P01-03"
+ },
+ {
+  "shift_id": "SHF-P01-20261004-B",
+  "plant_id": "P01",
+  "shift_code": "B",
+  "shift_date": "2026-10-04",
+  "start_ts": "2026-10-04 14:00:00.000",
+  "end_ts": "2026-10-04 22:00:00.000",
+  "operator_id": "OP-P01-08"
+ },
+ {
+  "shift_id": "SHF-P01-20261004-C",
+  "plant_id": "P01",
+  "shift_code": "C",
+  "shift_date": "2026-10-04",
+  "start_ts": "2026-10-04 22:00:00.000",
+  "end_ts": "2026-10-05 06:00:00.000",
+  "operator_id": "OP-P01-07"
+ },
+ {
+  "shift_id": "SHF-P01-20261005-A",
+  "plant_id": "P01",
+  "shift_code": "A",
+  "shift_date": "2026-10-05",
+  "start_ts": "2026-10-05 06:00:00.000",
+  "end_ts": "2026-10-05 14:00:00.000",
+  "operator_id": "OP-P01-06"
+ },
+ {
+  "shift_id": "SHF-P01-20261005-B",
+  "plant_id": "P01",
+  "shift_code": "B",
+  "shift_date": "2026-10-05",
+  "start_ts": "2026-10-05 14:00:00.000",
+  "end_ts": "2026-10-05 22:00:00.000",
+  "operator_id": "OP-P01-08"
+ },
+ {
+  "shift_id": "SHF-P01-20261005-C",
+  "plant_id": "P01",
+  "shift_code": "C",
+  "shift_date": "2026-10-05",
+  "start_ts": "2026-10-05 22:00:00.000",
+  "end_ts": "2026-10-06 06:00:00.000",
+  "operator_id": "OP-P01-01"
+ },
+ {
+  "shift_id": "SHF-P01-20261006-A",
+  "plant_id": "P01",
+  "shift_code": "A",
+  "shift_date": "2026-10-06",
+  "start_ts": "2026-10-06 06:00:00.000",
+  "end_ts": "2026-10-06 14:00:00.000",
+  "operator_id": "OP-P01-03"
+ },
+ {
+  "shift_id": "SHF-P01-20261006-B",
+  "plant_id": "P01",
+  "shift_code": "B",
+  "shift_date": "2026-10-06",
+  "start_ts": "2026-10-06 14:00:00.000",
+  "end_ts": "2026-10-06 22:00:00.000",
+  "operator_id": "OP-P01-06"
+ },
+ {
+  "shift_id": "SHF-P01-20261006-C",
+  "plant_id": "P01",
+  "shift_code": "C",
+  "shift_date": "2026-10-06",
+  "start_ts": "2026-10-06 22:00:00.000",
+  "end_ts": "2026-10-07 06:00:00.000",
+  "operator_id": "OP-P01-05"
+ },
+ {
+  "shift_id": "SHF-P01-20261007-A",
+  "plant_id": "P01",
+  "shift_code": "A",
+  "shift_date": "2026-10-07",
+  "start_ts": "2026-10-07 06:00:00.000",
+  "end_ts": "2026-10-07 14:00:00.000",
+  "operator_id": "OP-P01-03"
+ },
+ {
+  "shift_id": "SHF-P01-20261007-B",
+  "plant_id": "P01",
+  "shift_code": "B",
+  "shift_date": "2026-10-07",
+  "start_ts": "2026-10-07 14:00:00.000",
+  "end_ts": "2026-10-07 22:00:00.000",
+  "operator_id": "OP-P01-04"
+ },
+ {
+  "shift_id": "SHF-P01-20261007-C",
+  "plant_id": "P01",
+  "shift_code": "C",
+  "shift_date": "2026-10-07",
+  "start_ts": "2026-10-07 22:00:00.000",
+  "end_ts": "2026-10-08 06:00:00.000",
+  "operator_id": "OP-P01-05"
+ },
+ {
+  "shift_id": "SHF-P01-20261008-A",
+  "plant_id": "P01",
+  "shift_code": "A",
+  "shift_date": "2026-10-08",
+  "start_ts": "2026-10-08 06:00:00.000",
+  "end_ts": "2026-10-08 14:00:00.000",
+  "operator_id": "OP-P01-03"
+ },
+ {
+  "shift_id": "SHF-P01-20261008-B",
+  "plant_id": "P01",
+  "shift_code": "B",
+  "shift_date": "2026-10-08",
+  "start_ts": "2026-10-08 14:00:00.000",
+  "end_ts": "2026-10-08 22:00:00.000",
+  "operator_id": "OP-P01-08"
+ },
+ {
+  "shift_id": "SHF-P01-20261008-C",
+  "plant_id": "P01",
+  "shift_code": "C",
+  "shift_date": "2026-10-08",
+  "start_ts": "2026-10-08 22:00:00.000",
+  "end_ts": "2026-10-09 06:00:00.000",
+  "operator_id": "OP-P01-04"
+ },
+ {
+  "shift_id": "SHF-P01-20261009-A",
+  "plant_id": "P01",
+  "shift_code": "A",
+  "shift_date": "2026-10-09",
+  "start_ts": "2026-10-09 06:00:00.000",
+  "end_ts": "2026-10-09 14:00:00.000",
+  "operator_id": "OP-P01-06"
+ },
+ {
+  "shift_id": "SHF-P01-20261009-B",
+  "plant_id": "P01",
+  "shift_code": "B",
+  "shift_date": "2026-10-09",
+  "start_ts": "2026-10-09 14:00:00.000",
+  "end_ts": "2026-10-09 22:00:00.000",
+  "operator_id": "OP-P01-04"
+ },
+ {
+  "shift_id": "SHF-P01-20261009-C",
+  "plant_id": "P01",
+  "shift_code": "C",
+  "shift_date": "2026-10-09",
+  "start_ts": "2026-10-09 22:00:00.000",
+  "end_ts": "2026-10-10 06:00:00.000",
+  "operator_id": "OP-P01-02"
+ },
+ {
+  "shift_id": "SHF-P01-20261010-A",
+  "plant_id": "P01",
+  "shift_code": "A",
+  "shift_date": "2026-10-10",
+  "start_ts": "2026-10-10 06:00:00.000",
+  "end_ts": "2026-10-10 14:00:00.000",
+  "operator_id": "OP-P01-04"
+ },
+ {
+  "shift_id": "SHF-P01-20261010-B",
+  "plant_id": "P01",
+  "shift_code": "B",
+  "shift_date": "2026-10-10",
+  "start_ts": "2026-10-10 14:00:00.000",
+  "end_ts": "2026-10-10 22:00:00.000",
+  "operator_id": "OP-P01-01"
+ },
+ {
+  "shift_id": "SHF-P01-20261010-C",
+  "plant_id": "P01",
+  "shift_code": "C",
+  "shift_date": "2026-10-10",
+  "start_ts": "2026-10-10 22:00:00.000",
+  "end_ts": "2026-10-11 06:00:00.000",
+  "operator_id": "OP-P01-02"
+ },
+ {
+  "shift_id": "SHF-P01-20261011-A",
+  "plant_id": "P01",
+  "shift_code": "A",
+  "shift_date": "2026-10-11",
+  "start_ts": "2026-10-11 06:00:00.000",
+  "end_ts": "2026-10-11 14:00:00.000",
+  "operator_id": "OP-P01-02"
+ },
+ {
+  "shift_id": "SHF-P01-20261011-B",
+  "plant_id": "P01",
+  "shift_code": "B",
+  "shift_date": "2026-10-11",
+  "start_ts": "2026-10-11 14:00:00.000",
+  "end_ts": "2026-10-11 22:00:00.000",
+  "operator_id": "OP-P01-05"
+ },
+ {
+  "shift_id": "SHF-P01-20261011-C",
+  "plant_id": "P01",
+  "shift_code": "C",
+  "shift_date": "2026-10-11",
+  "start_ts": "2026-10-11 22:00:00.000",
+  "end_ts": "2026-10-12 06:00:00.000",
+  "operator_id": "OP-P01-03"
+ },
+ {
+  "shift_id": "SHF-P01-20261012-A",
+  "plant_id": "P01",
+  "shift_code": "A",
+  "shift_date": "2026-10-12",
+  "start_ts": "2026-10-12 06:00:00.000",
+  "end_ts": "2026-10-12 14:00:00.000",
+  "operator_id": "OP-P01-07"
+ },
+ {
+  "shift_id": "SHF-P01-20261012-B",
+  "plant_id": "P01",
+  "shift_code": "B",
+  "shift_date": "2026-10-12",
+  "start_ts": "2026-10-12 14:00:00.000",
+  "end_ts": "2026-10-12 22:00:00.000",
+  "operator_id": "OP-P01-03"
+ },
+ {
+  "shift_id": "SHF-P01-20261012-C",
+  "plant_id": "P01",
+  "shift_code": "C",
+  "shift_date": "2026-10-12",
+  "start_ts": "2026-10-12 22:00:00.000",
+  "end_ts": "2026-10-13 06:00:00.000",
+  "operator_id": "OP-P01-04"
+ },
+ {
+  "shift_id": "SHF-P01-20261013-A",
+  "plant_id": "P01",
+  "shift_code": "A",
+  "shift_date": "2026-10-13",
+  "start_ts": "2026-10-13 06:00:00.000",
+  "end_ts": "2026-10-13 14:00:00.000",
+  "operator_id": "OP-P01-06"
+ },
+ {
+  "shift_id": "SHF-P01-20261013-B",
+  "plant_id": "P01",
+  "shift_code": "B",
+  "shift_date": "2026-10-13",
+  "start_ts": "2026-10-13 14:00:00.000",
+  "end_ts": "2026-10-13 22:00:00.000",
+  "operator_id": "OP-P01-08"
+ },
+ {
+  "shift_id": "SHF-P01-20261013-C",
+  "plant_id": "P01",
+  "shift_code": "C",
+  "shift_date": "2026-10-13",
+  "start_ts": "2026-10-13 22:00:00.000",
+  "end_ts": "2026-10-14 06:00:00.000",
+  "operator_id": "OP-P01-02"
+ },
+ {
+  "shift_id": "SHF-P01-20261014-A",
+  "plant_id": "P01",
+  "shift_code": "A",
+  "shift_date": "2026-10-14",
+  "start_ts": "2026-10-14 06:00:00.000",
+  "end_ts": "2026-10-14 14:00:00.000",
+  "operator_id": "OP-P01-06"
+ },
+ {
+  "shift_id": "SHF-P01-20261014-B",
+  "plant_id": "P01",
+  "shift_code": "B",
+  "shift_date": "2026-10-14",
+  "start_ts": "2026-10-14 14:00:00.000",
+  "end_ts": "2026-10-14 22:00:00.000",
+  "operator_id": "OP-P01-05"
+ },
+ {
+  "shift_id": "SHF-P01-20261014-C",
+  "plant_id": "P01",
+  "shift_code": "C",
+  "shift_date": "2026-10-14",
+  "start_ts": "2026-10-14 22:00:00.000",
+  "end_ts": "2026-10-15 06:00:00.000",
+  "operator_id": "OP-P01-02"
+ },
+ {
+  "shift_id": "SHF-P01-20261015-A",
+  "plant_id": "P01",
+  "shift_code": "A",
+  "shift_date": "2026-10-15",
+  "start_ts": "2026-10-15 06:00:00.000",
+  "end_ts": "2026-10-15 14:00:00.000",
+  "operator_id": "OP-P01-05"
+ },
+ {
+  "shift_id": "SHF-P01-20261015-B",
+  "plant_id": "P01",
+  "shift_code": "B",
+  "shift_date": "2026-10-15",
+  "start_ts": "2026-10-15 14:00:00.000",
+  "end_ts": "2026-10-15 22:00:00.000",
+  "operator_id": "OP-P01-04"
+ },
+ {
+  "shift_id": "SHF-P01-20261015-C",
+  "plant_id": "P01",
+  "shift_code": "C",
+  "shift_date": "2026-10-15",
+  "start_ts": "2026-10-15 22:00:00.000",
+  "end_ts": "2026-10-16 06:00:00.000",
+  "operator_id": "OP-P01-01"
+ },
+ {
+  "shift_id": "SHF-P01-20261016-A",
+  "plant_id": "P01",
+  "shift_code": "A",
+  "shift_date": "2026-10-16",
+  "start_ts": "2026-10-16 06:00:00.000",
+  "end_ts": "2026-10-16 14:00:00.000",
+  "operator_id": "OP-P01-06"
+ },
+ {
+  "shift_id": "SHF-P01-20261016-B",
+  "plant_id": "P01",
+  "shift_code": "B",
+  "shift_date": "2026-10-16",
+  "start_ts": "2026-10-16 14:00:00.000",
+  "end_ts": "2026-10-16 22:00:00.000",
+  "operator_id": "OP-P01-01"
+ },
+ {
+  "shift_id": "SHF-P01-20261016-C",
+  "plant_id": "P01",
+  "shift_code": "C",
+  "shift_date": "2026-10-16",
+  "start_ts": "2026-10-16 22:00:00.000",
+  "end_ts": "2026-10-17 06:00:00.000",
+  "operator_id": "OP-P01-08"
+ },
+ {
+  "shift_id": "SHF-P01-20261017-A",
+  "plant_id": "P01",
+  "shift_code": "A",
+  "shift_date": "2026-10-17",
+  "start_ts": "2026-10-17 06:00:00.000",
+  "end_ts": "2026-10-17 14:00:00.000",
+  "operator_id": "OP-P01-08"
+ },
+ {
+  "shift_id": "SHF-P01-20261017-B",
+  "plant_id": "P01",
+  "shift_code": "B",
+  "shift_date": "2026-10-17",
+  "start_ts": "2026-10-17 14:00:00.000",
+  "end_ts": "2026-10-17 22:00:00.000",
+  "operator_id": "OP-P01-07"
+ },
+ {
+  "shift_id": "SHF-P01-20261017-C",
+  "plant_id": "P01",
+  "shift_code": "C",
+  "shift_date": "2026-10-17",
+  "start_ts": "2026-10-17 22:00:00.000",
+  "end_ts": "2026-10-18 06:00:00.000",
+  "operator_id": "OP-P01-04"
+ },
+ {
+  "shift_id": "SHF-P01-20261018-A",
+  "plant_id": "P01",
+  "shift_code": "A",
+  "shift_date": "2026-10-18",
+  "start_ts": "2026-10-18 06:00:00.000",
+  "end_ts": "2026-10-18 14:00:00.000",
+  "operator_id": "OP-P01-01"
+ },
+ {
+  "shift_id": "SHF-P01-20261018-B",
+  "plant_id": "P01",
+  "shift_code": "B",
+  "shift_date": "2026-10-18",
+  "start_ts": "2026-10-18 14:00:00.000",
+  "end_ts": "2026-10-18 22:00:00.000",
+  "operator_id": "OP-P01-03"
+ },
+ {
+  "shift_id": "SHF-P01-20261018-C",
+  "plant_id": "P01",
+  "shift_code": "C",
+  "shift_date": "2026-10-18",
+  "start_ts": "2026-10-18 22:00:00.000",
+  "end_ts": "2026-10-19 06:00:00.000",
+  "operator_id": "OP-P01-07"
+ },
+ {
+  "shift_id": "SHF-P01-20261019-A",
+  "plant_id": "P01",
+  "shift_code": "A",
+  "shift_date": "2026-10-19",
+  "start_ts": "2026-10-19 06:00:00.000",
+  "end_ts": "2026-10-19 14:00:00.000",
+  "operator_id": "OP-P01-02"
+ },
+ {
+  "shift_id": "SHF-P01-20261019-B",
+  "plant_id": "P01",
+  "shift_code": "B",
+  "shift_date": "2026-10-19",
+  "start_ts": "2026-10-19 14:00:00.000",
+  "end_ts": "2026-10-19 22:00:00.000",
+  "operator_id": "OP-P01-03"
+ },
+ {
+  "shift_id": "SHF-P01-20261019-C",
+  "plant_id": "P01",
+  "shift_code": "C",
+  "shift_date": "2026-10-19",
+  "start_ts": "2026-10-19 22:00:00.000",
+  "end_ts": "2026-10-20 06:00:00.000",
+  "operator_id": "OP-P01-05"
+ },
+ {
+  "shift_id": "SHF-P01-20261020-A",
+  "plant_id": "P01",
+  "shift_code": "A",
+  "shift_date": "2026-10-20",
+  "start_ts": "2026-10-20 06:00:00.000",
+  "end_ts": "2026-10-20 14:00:00.000",
+  "operator_id": "OP-P01-05"
+ },
+ {
+  "shift_id": "SHF-P01-20261020-B",
+  "plant_id": "P01",
+  "shift_code": "B",
+  "shift_date": "2026-10-20",
+  "start_ts": "2026-10-20 14:00:00.000",
+  "end_ts": "2026-10-20 22:00:00.000",
+  "operator_id": "OP-P01-01"
+ },
+ {
+  "shift_id": "SHF-P01-20261020-C",
+  "plant_id": "P01",
+  "shift_code": "C",
+  "shift_date": "2026-10-20",
+  "start_ts": "2026-10-20 22:00:00.000",
+  "end_ts": "2026-10-21 06:00:00.000",
+  "operator_id": "OP-P01-04"
+ },
+ {
+  "shift_id": "SHF-P01-20261021-A",
+  "plant_id": "P01",
+  "shift_code": "A",
+  "shift_date": "2026-10-21",
+  "start_ts": "2026-10-21 06:00:00.000",
+  "end_ts": "2026-10-21 14:00:00.000",
+  "operator_id": "OP-P01-07"
+ },
+ {
+  "shift_id": "SHF-P01-20261021-B",
+  "plant_id": "P01",
+  "shift_code": "B",
+  "shift_date": "2026-10-21",
+  "start_ts": "2026-10-21 14:00:00.000",
+  "end_ts": "2026-10-21 22:00:00.000",
+  "operator_id": "OP-P01-03"
+ },
+ {
+  "shift_id": "SHF-P01-20261021-C",
+  "plant_id": "P01",
+  "shift_code": "C",
+  "shift_date": "2026-10-21",
+  "start_ts": "2026-10-21 22:00:00.000",
+  "end_ts": "2026-10-22 06:00:00.000",
+  "operator_id": "OP-P01-01"
+ },
+ {
+  "shift_id": "SHF-P01-20261022-A",
+  "plant_id": "P01",
+  "shift_code": "A",
+  "shift_date": "2026-10-22",
+  "start_ts": "2026-10-22 06:00:00.000",
+  "end_ts": "2026-10-22 14:00:00.000",
+  "operator_id": "OP-P01-05"
+ },
+ {
+  "shift_id": "SHF-P01-20261022-B",
+  "plant_id": "P01",
+  "shift_code": "B",
+  "shift_date": "2026-10-22",
+  "start_ts": "2026-10-22 14:00:00.000",
+  "end_ts": "2026-10-22 22:00:00.000",
+  "operator_id": "OP-P01-01"
+ },
+ {
+  "shift_id": "SHF-P01-20261022-C",
+  "plant_id": "P01",
+  "shift_code": "C",
+  "shift_date": "2026-10-22",
+  "start_ts": "2026-10-22 22:00:00.000",
+  "end_ts": "2026-10-23 06:00:00.000",
+  "operator_id": "OP-P01-02"
+ },
+ {
+  "shift_id": "SHF-P01-20261023-A",
+  "plant_id": "P01",
+  "shift_code": "A",
+  "shift_date": "2026-10-23",
+  "start_ts": "2026-10-23 06:00:00.000",
+  "end_ts": "2026-10-23 14:00:00.000",
+  "operator_id": "OP-P01-03"
+ },
+ {
+  "shift_id": "SHF-P01-20261023-B",
+  "plant_id": "P01",
+  "shift_code": "B",
+  "shift_date": "2026-10-23",
+  "start_ts": "2026-10-23 14:00:00.000",
+  "end_ts": "2026-10-23 22:00:00.000",
+  "operator_id": "OP-P01-02"
+ },
+ {
+  "shift_id": "SHF-P01-20261023-C",
+  "plant_id": "P01",
+  "shift_code": "C",
+  "shift_date": "2026-10-23",
+  "start_ts": "2026-10-23 22:00:00.000",
+  "end_ts": "2026-10-24 06:00:00.000",
+  "operator_id": "OP-P01-01"
+ },
+ {
+  "shift_id": "SHF-P01-20261024-A",
+  "plant_id": "P01",
+  "shift_code": "A",
+  "shift_date": "2026-10-24",
+  "start_ts": "2026-10-24 06:00:00.000",
+  "end_ts": "2026-10-24 14:00:00.000",
+  "operator_id": "OP-P01-01"
+ },
+ {
+  "shift_id": "SHF-P01-20261024-B",
+  "plant_id": "P01",
+  "shift_code": "B",
+  "shift_date": "2026-10-24",
+  "start_ts": "2026-10-24 14:00:00.000",
+  "end_ts": "2026-10-24 22:00:00.000",
+  "operator_id": "OP-P01-03"
+ },
+ {
+  "shift_id": "SHF-P01-20261024-C",
+  "plant_id": "P01",
+  "shift_code": "C",
+  "shift_date": "2026-10-24",
+  "start_ts": "2026-10-24 22:00:00.000",
+  "end_ts": "2026-10-25 06:00:00.000",
+  "operator_id": "OP-P01-07"
+ },
+ {
+  "shift_id": "SHF-P01-20261025-A",
+  "plant_id": "P01",
+  "shift_code": "A",
+  "shift_date": "2026-10-25",
+  "start_ts": "2026-10-25 06:00:00.000",
+  "end_ts": "2026-10-25 14:00:00.000",
+  "operator_id": "OP-P01-02"
+ },
+ {
+  "shift_id": "SHF-P01-20261025-B",
+  "plant_id": "P01",
+  "shift_code": "B",
+  "shift_date": "2026-10-25",
+  "start_ts": "2026-10-25 14:00:00.000",
+  "end_ts": "2026-10-25 22:00:00.000",
+  "operator_id": "OP-P01-03"
+ },
+ {
+  "shift_id": "SHF-P01-20261025-C",
+  "plant_id": "P01",
+  "shift_code": "C",
+  "shift_date": "2026-10-25",
+  "start_ts": "2026-10-25 22:00:00.000",
+  "end_ts": "2026-10-26 06:00:00.000",
+  "operator_id": "OP-P01-07"
+ },
+ {
+  "shift_id": "SHF-P01-20261026-A",
+  "plant_id": "P01",
+  "shift_code": "A",
+  "shift_date": "2026-10-26",
+  "start_ts": "2026-10-26 06:00:00.000",
+  "end_ts": "2026-10-26 14:00:00.000",
+  "operator_id": "OP-P01-03"
+ },
+ {
+  "shift_id": "SHF-P01-20261026-B",
+  "plant_id": "P01",
+  "shift_code": "B",
+  "shift_date": "2026-10-26",
+  "start_ts": "2026-10-26 14:00:00.000",
+  "end_ts": "2026-10-26 22:00:00.000",
+  "operator_id": "OP-P01-05"
+ },
+ {
+  "shift_id": "SHF-P01-20261026-C",
+  "plant_id": "P01",
+  "shift_code": "C",
+  "shift_date": "2026-10-26",
+  "start_ts": "2026-10-26 22:00:00.000",
+  "end_ts": "2026-10-27 06:00:00.000",
+  "operator_id": "OP-P01-02"
+ },
+ {
+  "shift_id": "SHF-P01-20261027-A",
+  "plant_id": "P01",
+  "shift_code": "A",
+  "shift_date": "2026-10-27",
+  "start_ts": "2026-10-27 06:00:00.000",
+  "end_ts": "2026-10-27 14:00:00.000",
+  "operator_id": "OP-P01-07"
+ },
+ {
+  "shift_id": "SHF-P01-20261027-B",
+  "plant_id": "P01",
+  "shift_code": "B",
+  "shift_date": "2026-10-27",
+  "start_ts": "2026-10-27 14:00:00.000",
+  "end_ts": "2026-10-27 22:00:00.000",
+  "operator_id": "OP-P01-08"
+ },
+ {
+  "shift_id": "SHF-P01-20261027-C",
+  "plant_id": "P01",
+  "shift_code": "C",
+  "shift_date": "2026-10-27",
+  "start_ts": "2026-10-27 22:00:00.000",
+  "end_ts": "2026-10-28 06:00:00.000",
+  "operator_id": "OP-P01-06"
+ },
+ {
+  "shift_id": "SHF-P01-20261028-A",
+  "plant_id": "P01",
+  "shift_code": "A",
+  "shift_date": "2026-10-28",
+  "start_ts": "2026-10-28 06:00:00.000",
+  "end_ts": "2026-10-28 14:00:00.000",
+  "operator_id": "OP-P01-01"
+ },
+ {
+  "shift_id": "SHF-P01-20261028-B",
+  "plant_id": "P01",
+  "shift_code": "B",
+  "shift_date": "2026-10-28",
+  "start_ts": "2026-10-28 14:00:00.000",
+  "end_ts": "2026-10-28 22:00:00.000",
+  "operator_id": "OP-P01-03"
+ },
+ {
+  "shift_id": "SHF-P01-20261028-C",
+  "plant_id": "P01",
+  "shift_code": "C",
+  "shift_date": "2026-10-28",
+  "start_ts": "2026-10-28 22:00:00.000",
+  "end_ts": "2026-10-29 06:00:00.000",
+  "operator_id": "OP-P01-08"
+ },
+ {
+  "shift_id": "SHF-P01-20261029-A",
+  "plant_id": "P01",
+  "shift_code": "A",
+  "shift_date": "2026-10-29",
+  "start_ts": "2026-10-29 06:00:00.000",
+  "end_ts": "2026-10-29 14:00:00.000",
+  "operator_id": "OP-P01-06"
+ },
+ {
+  "shift_id": "SHF-P01-20261029-B",
+  "plant_id": "P01",
+  "shift_code": "B",
+  "shift_date": "2026-10-29",
+  "start_ts": "2026-10-29 14:00:00.000",
+  "end_ts": "2026-10-29 22:00:00.000",
+  "operator_id": "OP-P01-01"
+ },
+ {
+  "shift_id": "SHF-P01-20261029-C",
+  "plant_id": "P01",
+  "shift_code": "C",
+  "shift_date": "2026-10-29",
+  "start_ts": "2026-10-29 22:00:00.000",
+  "end_ts": "2026-10-30 06:00:00.000",
+  "operator_id": "OP-P01-05"
+ },
+ {
+  "shift_id": "SHF-P01-20261030-A",
+  "plant_id": "P01",
+  "shift_code": "A",
+  "shift_date": "2026-10-30",
+  "start_ts": "2026-10-30 06:00:00.000",
+  "end_ts": "2026-10-30 14:00:00.000",
+  "operator_id": "OP-P01-08"
+ },
+ {
+  "shift_id": "SHF-P01-20261030-B",
+  "plant_id": "P01",
+  "shift_code": "B",
+  "shift_date": "2026-10-30",
+  "start_ts": "2026-10-30 14:00:00.000",
+  "end_ts": "2026-10-30 22:00:00.000",
+  "operator_id": "OP-P01-03"
+ },
+ {
+  "shift_id": "SHF-P01-20261030-C",
+  "plant_id": "P01",
+  "shift_code": "C",
+  "shift_date": "2026-10-30",
+  "start_ts": "2026-10-30 22:00:00.000",
+  "end_ts": "2026-10-31 06:00:00.000",
+  "operator_id": "OP-P01-02"
+ },
+ {
+  "shift_id": "SHF-P02-20260930-C",
+  "plant_id": "P02",
+  "shift_code": "C",
+  "shift_date": "2026-09-30",
+  "start_ts": "2026-09-30 22:00:00.000",
+  "end_ts": "2026-10-01 06:00:00.000",
+  "operator_id": "OP-P02-07"
+ },
+ {
+  "shift_id": "SHF-P02-20261001-A",
+  "plant_id": "P02",
+  "shift_code": "A",
+  "shift_date": "2026-10-01",
+  "start_ts": "2026-10-01 06:00:00.000",
+  "end_ts": "2026-10-01 14:00:00.000",
+  "operator_id": "OP-P02-01"
+ },
+ {
+  "shift_id": "SHF-P02-20261001-B",
+  "plant_id": "P02",
+  "shift_code": "B",
+  "shift_date": "2026-10-01",
+  "start_ts": "2026-10-01 14:00:00.000",
+  "end_ts": "2026-10-01 22:00:00.000",
+  "operator_id": "OP-P02-03"
+ },
+ {
+  "shift_id": "SHF-P02-20261001-C",
+  "plant_id": "P02",
+  "shift_code": "C",
+  "shift_date": "2026-10-01",
+  "start_ts": "2026-10-01 22:00:00.000",
+  "end_ts": "2026-10-02 06:00:00.000",
+  "operator_id": "OP-P02-07"
+ },
+ {
+  "shift_id": "SHF-P02-20261002-A",
+  "plant_id": "P02",
+  "shift_code": "A",
+  "shift_date": "2026-10-02",
+  "start_ts": "2026-10-02 06:00:00.000",
+  "end_ts": "2026-10-02 14:00:00.000",
+  "operator_id": "OP-P02-08"
+ },
+ {
+  "shift_id": "SHF-P02-20261002-B",
+  "plant_id": "P02",
+  "shift_code": "B",
+  "shift_date": "2026-10-02",
+  "start_ts": "2026-10-02 14:00:00.000",
+  "end_ts": "2026-10-02 22:00:00.000",
+  "operator_id": "OP-P02-01"
+ },
+ {
+  "shift_id": "SHF-P02-20261002-C",
+  "plant_id": "P02",
+  "shift_code": "C",
+  "shift_date": "2026-10-02",
+  "start_ts": "2026-10-02 22:00:00.000",
+  "end_ts": "2026-10-03 06:00:00.000",
+  "operator_id": "OP-P02-07"
+ },
+ {
+  "shift_id": "SHF-P02-20261003-A",
+  "plant_id": "P02",
+  "shift_code": "A",
+  "shift_date": "2026-10-03",
+  "start_ts": "2026-10-03 06:00:00.000",
+  "end_ts": "2026-10-03 14:00:00.000",
+  "operator_id": "OP-P02-06"
+ },
+ {
+  "shift_id": "SHF-P02-20261003-B",
+  "plant_id": "P02",
+  "shift_code": "B",
+  "shift_date": "2026-10-03",
+  "start_ts": "2026-10-03 14:00:00.000",
+  "end_ts": "2026-10-03 22:00:00.000",
+  "operator_id": "OP-P02-02"
+ },
+ {
+  "shift_id": "SHF-P02-20261003-C",
+  "plant_id": "P02",
+  "shift_code": "C",
+  "shift_date": "2026-10-03",
+  "start_ts": "2026-10-03 22:00:00.000",
+  "end_ts": "2026-10-04 06:00:00.000",
+  "operator_id": "OP-P02-08"
+ },
+ {
+  "shift_id": "SHF-P02-20261004-A",
+  "plant_id": "P02",
+  "shift_code": "A",
+  "shift_date": "2026-10-04",
+  "start_ts": "2026-10-04 06:00:00.000",
+  "end_ts": "2026-10-04 14:00:00.000",
+  "operator_id": "OP-P02-05"
+ },
+ {
+  "shift_id": "SHF-P02-20261004-B",
+  "plant_id": "P02",
+  "shift_code": "B",
+  "shift_date": "2026-10-04",
+  "start_ts": "2026-10-04 14:00:00.000",
+  "end_ts": "2026-10-04 22:00:00.000",
+  "operator_id": "OP-P02-06"
+ },
+ {
+  "shift_id": "SHF-P02-20261004-C",
+  "plant_id": "P02",
+  "shift_code": "C",
+  "shift_date": "2026-10-04",
+  "start_ts": "2026-10-04 22:00:00.000",
+  "end_ts": "2026-10-05 06:00:00.000",
+  "operator_id": "OP-P02-03"
+ },
+ {
+  "shift_id": "SHF-P02-20261005-A",
+  "plant_id": "P02",
+  "shift_code": "A",
+  "shift_date": "2026-10-05",
+  "start_ts": "2026-10-05 06:00:00.000",
+  "end_ts": "2026-10-05 14:00:00.000",
+  "operator_id": "OP-P02-06"
+ },
+ {
+  "shift_id": "SHF-P02-20261005-B",
+  "plant_id": "P02",
+  "shift_code": "B",
+  "shift_date": "2026-10-05",
+  "start_ts": "2026-10-05 14:00:00.000",
+  "end_ts": "2026-10-05 22:00:00.000",
+  "operator_id": "OP-P02-02"
+ },
+ {
+  "shift_id": "SHF-P02-20261005-C",
+  "plant_id": "P02",
+  "shift_code": "C",
+  "shift_date": "2026-10-05",
+  "start_ts": "2026-10-05 22:00:00.000",
+  "end_ts": "2026-10-06 06:00:00.000",
+  "operator_id": "OP-P02-08"
+ },
+ {
+  "shift_id": "SHF-P02-20261006-A",
+  "plant_id": "P02",
+  "shift_code": "A",
+  "shift_date": "2026-10-06",
+  "start_ts": "2026-10-06 06:00:00.000",
+  "end_ts": "2026-10-06 14:00:00.000",
+  "operator_id": "OP-P02-06"
+ },
+ {
+  "shift_id": "SHF-P02-20261006-B",
+  "plant_id": "P02",
+  "shift_code": "B",
+  "shift_date": "2026-10-06",
+  "start_ts": "2026-10-06 14:00:00.000",
+  "end_ts": "2026-10-06 22:00:00.000",
+  "operator_id": "OP-P02-08"
+ },
+ {
+  "shift_id": "SHF-P02-20261006-C",
+  "plant_id": "P02",
+  "shift_code": "C",
+  "shift_date": "2026-10-06",
+  "start_ts": "2026-10-06 22:00:00.000",
+  "end_ts": "2026-10-07 06:00:00.000",
+  "operator_id": "OP-P02-01"
+ },
+ {
+  "shift_id": "SHF-P02-20261007-A",
+  "plant_id": "P02",
+  "shift_code": "A",
+  "shift_date": "2026-10-07",
+  "start_ts": "2026-10-07 06:00:00.000",
+  "end_ts": "2026-10-07 14:00:00.000",
+  "operator_id": "OP-P02-01"
+ },
+ {
+  "shift_id": "SHF-P02-20261007-B",
+  "plant_id": "P02",
+  "shift_code": "B",
+  "shift_date": "2026-10-07",
+  "start_ts": "2026-10-07 14:00:00.000",
+  "end_ts": "2026-10-07 22:00:00.000",
+  "operator_id": "OP-P02-02"
+ },
+ {
+  "shift_id": "SHF-P02-20261007-C",
+  "plant_id": "P02",
+  "shift_code": "C",
+  "shift_date": "2026-10-07",
+  "start_ts": "2026-10-07 22:00:00.000",
+  "end_ts": "2026-10-08 06:00:00.000",
+  "operator_id": "OP-P02-05"
+ },
+ {
+  "shift_id": "SHF-P02-20261008-A",
+  "plant_id": "P02",
+  "shift_code": "A",
+  "shift_date": "2026-10-08",
+  "start_ts": "2026-10-08 06:00:00.000",
+  "end_ts": "2026-10-08 14:00:00.000",
+  "operator_id": "OP-P02-05"
+ },
+ {
+  "shift_id": "SHF-P02-20261008-B",
+  "plant_id": "P02",
+  "shift_code": "B",
+  "shift_date": "2026-10-08",
+  "start_ts": "2026-10-08 14:00:00.000",
+  "end_ts": "2026-10-08 22:00:00.000",
+  "operator_id": "OP-P02-02"
+ },
+ {
+  "shift_id": "SHF-P02-20261008-C",
+  "plant_id": "P02",
+  "shift_code": "C",
+  "shift_date": "2026-10-08",
+  "start_ts": "2026-10-08 22:00:00.000",
+  "end_ts": "2026-10-09 06:00:00.000",
+  "operator_id": "OP-P02-01"
+ },
+ {
+  "shift_id": "SHF-P02-20261009-A",
+  "plant_id": "P02",
+  "shift_code": "A",
+  "shift_date": "2026-10-09",
+  "start_ts": "2026-10-09 06:00:00.000",
+  "end_ts": "2026-10-09 14:00:00.000",
+  "operator_id": "OP-P02-05"
+ },
+ {
+  "shift_id": "SHF-P02-20261009-B",
+  "plant_id": "P02",
+  "shift_code": "B",
+  "shift_date": "2026-10-09",
+  "start_ts": "2026-10-09 14:00:00.000",
+  "end_ts": "2026-10-09 22:00:00.000",
+  "operator_id": "OP-P02-08"
+ },
+ {
+  "shift_id": "SHF-P02-20261009-C",
+  "plant_id": "P02",
+  "shift_code": "C",
+  "shift_date": "2026-10-09",
+  "start_ts": "2026-10-09 22:00:00.000",
+  "end_ts": "2026-10-10 06:00:00.000",
+  "operator_id": "OP-P02-01"
+ },
+ {
+  "shift_id": "SHF-P02-20261010-A",
+  "plant_id": "P02",
+  "shift_code": "A",
+  "shift_date": "2026-10-10",
+  "start_ts": "2026-10-10 06:00:00.000",
+  "end_ts": "2026-10-10 14:00:00.000",
+  "operator_id": "OP-P02-04"
+ },
+ {
+  "shift_id": "SHF-P02-20261010-B",
+  "plant_id": "P02",
+  "shift_code": "B",
+  "shift_date": "2026-10-10",
+  "start_ts": "2026-10-10 14:00:00.000",
+  "end_ts": "2026-10-10 22:00:00.000",
+  "operator_id": "OP-P02-08"
+ },
+ {
+  "shift_id": "SHF-P02-20261010-C",
+  "plant_id": "P02",
+  "shift_code": "C",
+  "shift_date": "2026-10-10",
+  "start_ts": "2026-10-10 22:00:00.000",
+  "end_ts": "2026-10-11 06:00:00.000",
+  "operator_id": "OP-P02-01"
+ },
+ {
+  "shift_id": "SHF-P02-20261011-A",
+  "plant_id": "P02",
+  "shift_code": "A",
+  "shift_date": "2026-10-11",
+  "start_ts": "2026-10-11 06:00:00.000",
+  "end_ts": "2026-10-11 14:00:00.000",
+  "operator_id": "OP-P02-01"
+ },
+ {
+  "shift_id": "SHF-P02-20261011-B",
+  "plant_id": "P02",
+  "shift_code": "B",
+  "shift_date": "2026-10-11",
+  "start_ts": "2026-10-11 14:00:00.000",
+  "end_ts": "2026-10-11 22:00:00.000",
+  "operator_id": "OP-P02-03"
+ },
+ {
+  "shift_id": "SHF-P02-20261011-C",
+  "plant_id": "P02",
+  "shift_code": "C",
+  "shift_date": "2026-10-11",
+  "start_ts": "2026-10-11 22:00:00.000",
+  "end_ts": "2026-10-12 06:00:00.000",
+  "operator_id": "OP-P02-06"
+ },
+ {
+  "shift_id": "SHF-P02-20261012-A",
+  "plant_id": "P02",
+  "shift_code": "A",
+  "shift_date": "2026-10-12",
+  "start_ts": "2026-10-12 06:00:00.000",
+  "end_ts": "2026-10-12 14:00:00.000",
+  "operator_id": "OP-P02-03"
+ },
+ {
+  "shift_id": "SHF-P02-20261012-B",
+  "plant_id": "P02",
+  "shift_code": "B",
+  "shift_date": "2026-10-12",
+  "start_ts": "2026-10-12 14:00:00.000",
+  "end_ts": "2026-10-12 22:00:00.000",
+  "operator_id": "OP-P02-01"
+ },
+ {
+  "shift_id": "SHF-P02-20261012-C",
+  "plant_id": "P02",
+  "shift_code": "C",
+  "shift_date": "2026-10-12",
+  "start_ts": "2026-10-12 22:00:00.000",
+  "end_ts": "2026-10-13 06:00:00.000",
+  "operator_id": "OP-P02-06"
+ },
+ {
+  "shift_id": "SHF-P02-20261013-A",
+  "plant_id": "P02",
+  "shift_code": "A",
+  "shift_date": "2026-10-13",
+  "start_ts": "2026-10-13 06:00:00.000",
+  "end_ts": "2026-10-13 14:00:00.000",
+  "operator_id": "OP-P02-01"
+ },
+ {
+  "shift_id": "SHF-P02-20261013-B",
+  "plant_id": "P02",
+  "shift_code": "B",
+  "shift_date": "2026-10-13",
+  "start_ts": "2026-10-13 14:00:00.000",
+  "end_ts": "2026-10-13 22:00:00.000",
+  "operator_id": "OP-P02-02"
+ },
+ {
+  "shift_id": "SHF-P02-20261013-C",
+  "plant_id": "P02",
+  "shift_code": "C",
+  "shift_date": "2026-10-13",
+  "start_ts": "2026-10-13 22:00:00.000",
+  "end_ts": "2026-10-14 06:00:00.000",
+  "operator_id": "OP-P02-04"
+ },
+ {
+  "shift_id": "SHF-P02-20261014-A",
+  "plant_id": "P02",
+  "shift_code": "A",
+  "shift_date": "2026-10-14",
+  "start_ts": "2026-10-14 06:00:00.000",
+  "end_ts": "2026-10-14 14:00:00.000",
+  "operator_id": "OP-P02-07"
+ },
+ {
+  "shift_id": "SHF-P02-20261014-B",
+  "plant_id": "P02",
+  "shift_code": "B",
+  "shift_date": "2026-10-14",
+  "start_ts": "2026-10-14 14:00:00.000",
+  "end_ts": "2026-10-14 22:00:00.000",
+  "operator_id": "OP-P02-06"
+ },
+ {
+  "shift_id": "SHF-P02-20261014-C",
+  "plant_id": "P02",
+  "shift_code": "C",
+  "shift_date": "2026-10-14",
+  "start_ts": "2026-10-14 22:00:00.000",
+  "end_ts": "2026-10-15 06:00:00.000",
+  "operator_id": "OP-P02-01"
+ },
+ {
+  "shift_id": "SHF-P02-20261015-A",
+  "plant_id": "P02",
+  "shift_code": "A",
+  "shift_date": "2026-10-15",
+  "start_ts": "2026-10-15 06:00:00.000",
+  "end_ts": "2026-10-15 14:00:00.000",
+  "operator_id": "OP-P02-01"
+ },
+ {
+  "shift_id": "SHF-P02-20261015-B",
+  "plant_id": "P02",
+  "shift_code": "B",
+  "shift_date": "2026-10-15",
+  "start_ts": "2026-10-15 14:00:00.000",
+  "end_ts": "2026-10-15 22:00:00.000",
+  "operator_id": "OP-P02-06"
+ },
+ {
+  "shift_id": "SHF-P02-20261015-C",
+  "plant_id": "P02",
+  "shift_code": "C",
+  "shift_date": "2026-10-15",
+  "start_ts": "2026-10-15 22:00:00.000",
+  "end_ts": "2026-10-16 06:00:00.000",
+  "operator_id": "OP-P02-07"
+ },
+ {
+  "shift_id": "SHF-P02-20261016-A",
+  "plant_id": "P02",
+  "shift_code": "A",
+  "shift_date": "2026-10-16",
+  "start_ts": "2026-10-16 06:00:00.000",
+  "end_ts": "2026-10-16 14:00:00.000",
+  "operator_id": "OP-P02-01"
+ },
+ {
+  "shift_id": "SHF-P02-20261016-B",
+  "plant_id": "P02",
+  "shift_code": "B",
+  "shift_date": "2026-10-16",
+  "start_ts": "2026-10-16 14:00:00.000",
+  "end_ts": "2026-10-16 22:00:00.000",
+  "operator_id": "OP-P02-03"
+ },
+ {
+  "shift_id": "SHF-P02-20261016-C",
+  "plant_id": "P02",
+  "shift_code": "C",
+  "shift_date": "2026-10-16",
+  "start_ts": "2026-10-16 22:00:00.000",
+  "end_ts": "2026-10-17 06:00:00.000",
+  "operator_id": "OP-P02-07"
+ },
+ {
+  "shift_id": "SHF-P02-20261017-A",
+  "plant_id": "P02",
+  "shift_code": "A",
+  "shift_date": "2026-10-17",
+  "start_ts": "2026-10-17 06:00:00.000",
+  "end_ts": "2026-10-17 14:00:00.000",
+  "operator_id": "OP-P02-07"
+ },
+ {
+  "shift_id": "SHF-P02-20261017-B",
+  "plant_id": "P02",
+  "shift_code": "B",
+  "shift_date": "2026-10-17",
+  "start_ts": "2026-10-17 14:00:00.000",
+  "end_ts": "2026-10-17 22:00:00.000",
+  "operator_id": "OP-P02-03"
+ },
+ {
+  "shift_id": "SHF-P02-20261017-C",
+  "plant_id": "P02",
+  "shift_code": "C",
+  "shift_date": "2026-10-17",
+  "start_ts": "2026-10-17 22:00:00.000",
+  "end_ts": "2026-10-18 06:00:00.000",
+  "operator_id": "OP-P02-06"
+ },
+ {
+  "shift_id": "SHF-P02-20261018-A",
+  "plant_id": "P02",
+  "shift_code": "A",
+  "shift_date": "2026-10-18",
+  "start_ts": "2026-10-18 06:00:00.000",
+  "end_ts": "2026-10-18 14:00:00.000",
+  "operator_id": "OP-P02-03"
+ },
+ {
+  "shift_id": "SHF-P02-20261018-B",
+  "plant_id": "P02",
+  "shift_code": "B",
+  "shift_date": "2026-10-18",
+  "start_ts": "2026-10-18 14:00:00.000",
+  "end_ts": "2026-10-18 22:00:00.000",
+  "operator_id": "OP-P02-08"
+ },
+ {
+  "shift_id": "SHF-P02-20261018-C",
+  "plant_id": "P02",
+  "shift_code": "C",
+  "shift_date": "2026-10-18",
+  "start_ts": "2026-10-18 22:00:00.000",
+  "end_ts": "2026-10-19 06:00:00.000",
+  "operator_id": "OP-P02-05"
+ },
+ {
+  "shift_id": "SHF-P02-20261019-A",
+  "plant_id": "P02",
+  "shift_code": "A",
+  "shift_date": "2026-10-19",
+  "start_ts": "2026-10-19 06:00:00.000",
+  "end_ts": "2026-10-19 14:00:00.000",
+  "operator_id": "OP-P02-04"
+ },
+ {
+  "shift_id": "SHF-P02-20261019-B",
+  "plant_id": "P02",
+  "shift_code": "B",
+  "shift_date": "2026-10-19",
+  "start_ts": "2026-10-19 14:00:00.000",
+  "end_ts": "2026-10-19 22:00:00.000",
+  "operator_id": "OP-P02-03"
+ },
+ {
+  "shift_id": "SHF-P02-20261019-C",
+  "plant_id": "P02",
+  "shift_code": "C",
+  "shift_date": "2026-10-19",
+  "start_ts": "2026-10-19 22:00:00.000",
+  "end_ts": "2026-10-20 06:00:00.000",
+  "operator_id": "OP-P02-08"
+ },
+ {
+  "shift_id": "SHF-P02-20261020-A",
+  "plant_id": "P02",
+  "shift_code": "A",
+  "shift_date": "2026-10-20",
+  "start_ts": "2026-10-20 06:00:00.000",
+  "end_ts": "2026-10-20 14:00:00.000",
+  "operator_id": "OP-P02-07"
+ },
+ {
+  "shift_id": "SHF-P02-20261020-B",
+  "plant_id": "P02",
+  "shift_code": "B",
+  "shift_date": "2026-10-20",
+  "start_ts": "2026-10-20 14:00:00.000",
+  "end_ts": "2026-10-20 22:00:00.000",
+  "operator_id": "OP-P02-05"
+ },
+ {
+  "shift_id": "SHF-P02-20261020-C",
+  "plant_id": "P02",
+  "shift_code": "C",
+  "shift_date": "2026-10-20",
+  "start_ts": "2026-10-20 22:00:00.000",
+  "end_ts": "2026-10-21 06:00:00.000",
+  "operator_id": "OP-P02-03"
+ },
+ {
+  "shift_id": "SHF-P02-20261021-A",
+  "plant_id": "P02",
+  "shift_code": "A",
+  "shift_date": "2026-10-21",
+  "start_ts": "2026-10-21 06:00:00.000",
+  "end_ts": "2026-10-21 14:00:00.000",
+  "operator_id": "OP-P02-03"
+ },
+ {
+  "shift_id": "SHF-P02-20261021-B",
+  "plant_id": "P02",
+  "shift_code": "B",
+  "shift_date": "2026-10-21",
+  "start_ts": "2026-10-21 14:00:00.000",
+  "end_ts": "2026-10-21 22:00:00.000",
+  "operator_id": "OP-P02-04"
+ },
+ {
+  "shift_id": "SHF-P02-20261021-C",
+  "plant_id": "P02",
+  "shift_code": "C",
+  "shift_date": "2026-10-21",
+  "start_ts": "2026-10-21 22:00:00.000",
+  "end_ts": "2026-10-22 06:00:00.000",
+  "operator_id": "OP-P02-08"
+ },
+ {
+  "shift_id": "SHF-P02-20261022-A",
+  "plant_id": "P02",
+  "shift_code": "A",
+  "shift_date": "2026-10-22",
+  "start_ts": "2026-10-22 06:00:00.000",
+  "end_ts": "2026-10-22 14:00:00.000",
+  "operator_id": "OP-P02-08"
+ },
+ {
+  "shift_id": "SHF-P02-20261022-B",
+  "plant_id": "P02",
+  "shift_code": "B",
+  "shift_date": "2026-10-22",
+  "start_ts": "2026-10-22 14:00:00.000",
+  "end_ts": "2026-10-22 22:00:00.000",
+  "operator_id": "OP-P02-01"
+ },
+ {
+  "shift_id": "SHF-P02-20261022-C",
+  "plant_id": "P02",
+  "shift_code": "C",
+  "shift_date": "2026-10-22",
+  "start_ts": "2026-10-22 22:00:00.000",
+  "end_ts": "2026-10-23 06:00:00.000",
+  "operator_id": "OP-P02-06"
+ },
+ {
+  "shift_id": "SHF-P02-20261023-A",
+  "plant_id": "P02",
+  "shift_code": "A",
+  "shift_date": "2026-10-23",
+  "start_ts": "2026-10-23 06:00:00.000",
+  "end_ts": "2026-10-23 14:00:00.000",
+  "operator_id": "OP-P02-02"
+ },
+ {
+  "shift_id": "SHF-P02-20261023-B",
+  "plant_id": "P02",
+  "shift_code": "B",
+  "shift_date": "2026-10-23",
+  "start_ts": "2026-10-23 14:00:00.000",
+  "end_ts": "2026-10-23 22:00:00.000",
+  "operator_id": "OP-P02-01"
+ },
+ {
+  "shift_id": "SHF-P02-20261023-C",
+  "plant_id": "P02",
+  "shift_code": "C",
+  "shift_date": "2026-10-23",
+  "start_ts": "2026-10-23 22:00:00.000",
+  "end_ts": "2026-10-24 06:00:00.000",
+  "operator_id": "OP-P02-08"
+ },
+ {
+  "shift_id": "SHF-P02-20261024-A",
+  "plant_id": "P02",
+  "shift_code": "A",
+  "shift_date": "2026-10-24",
+  "start_ts": "2026-10-24 06:00:00.000",
+  "end_ts": "2026-10-24 14:00:00.000",
+  "operator_id": "OP-P02-02"
+ },
+ {
+  "shift_id": "SHF-P02-20261024-B",
+  "plant_id": "P02",
+  "shift_code": "B",
+  "shift_date": "2026-10-24",
+  "start_ts": "2026-10-24 14:00:00.000",
+  "end_ts": "2026-10-24 22:00:00.000",
+  "operator_id": "OP-P02-06"
+ },
+ {
+  "shift_id": "SHF-P02-20261024-C",
+  "plant_id": "P02",
+  "shift_code": "C",
+  "shift_date": "2026-10-24",
+  "start_ts": "2026-10-24 22:00:00.000",
+  "end_ts": "2026-10-25 06:00:00.000",
+  "operator_id": "OP-P02-03"
+ },
+ {
+  "shift_id": "SHF-P02-20261025-A",
+  "plant_id": "P02",
+  "shift_code": "A",
+  "shift_date": "2026-10-25",
+  "start_ts": "2026-10-25 06:00:00.000",
+  "end_ts": "2026-10-25 14:00:00.000",
+  "operator_id": "OP-P02-04"
+ },
+ {
+  "shift_id": "SHF-P02-20261025-B",
+  "plant_id": "P02",
+  "shift_code": "B",
+  "shift_date": "2026-10-25",
+  "start_ts": "2026-10-25 14:00:00.000",
+  "end_ts": "2026-10-25 22:00:00.000",
+  "operator_id": "OP-P02-01"
+ },
+ {
+  "shift_id": "SHF-P02-20261025-C",
+  "plant_id": "P02",
+  "shift_code": "C",
+  "shift_date": "2026-10-25",
+  "start_ts": "2026-10-25 22:00:00.000",
+  "end_ts": "2026-10-26 06:00:00.000",
+  "operator_id": "OP-P02-07"
+ },
+ {
+  "shift_id": "SHF-P02-20261026-A",
+  "plant_id": "P02",
+  "shift_code": "A",
+  "shift_date": "2026-10-26",
+  "start_ts": "2026-10-26 06:00:00.000",
+  "end_ts": "2026-10-26 14:00:00.000",
+  "operator_id": "OP-P02-01"
+ },
+ {
+  "shift_id": "SHF-P02-20261026-B",
+  "plant_id": "P02",
+  "shift_code": "B",
+  "shift_date": "2026-10-26",
+  "start_ts": "2026-10-26 14:00:00.000",
+  "end_ts": "2026-10-26 22:00:00.000",
+  "operator_id": "OP-P02-04"
+ },
+ {
+  "shift_id": "SHF-P02-20261026-C",
+  "plant_id": "P02",
+  "shift_code": "C",
+  "shift_date": "2026-10-26",
+  "start_ts": "2026-10-26 22:00:00.000",
+  "end_ts": "2026-10-27 06:00:00.000",
+  "operator_id": "OP-P02-08"
+ },
+ {
+  "shift_id": "SHF-P02-20261027-A",
+  "plant_id": "P02",
+  "shift_code": "A",
+  "shift_date": "2026-10-27",
+  "start_ts": "2026-10-27 06:00:00.000",
+  "end_ts": "2026-10-27 14:00:00.000",
+  "operator_id": "OP-P02-05"
+ },
+ {
+  "shift_id": "SHF-P02-20261027-B",
+  "plant_id": "P02",
+  "shift_code": "B",
+  "shift_date": "2026-10-27",
+  "start_ts": "2026-10-27 14:00:00.000",
+  "end_ts": "2026-10-27 22:00:00.000",
+  "operator_id": "OP-P02-06"
+ },
+ {
+  "shift_id": "SHF-P02-20261027-C",
+  "plant_id": "P02",
+  "shift_code": "C",
+  "shift_date": "2026-10-27",
+  "start_ts": "2026-10-27 22:00:00.000",
+  "end_ts": "2026-10-28 06:00:00.000",
+  "operator_id": "OP-P02-03"
+ },
+ {
+  "shift_id": "SHF-P02-20261028-A",
+  "plant_id": "P02",
+  "shift_code": "A",
+  "shift_date": "2026-10-28",
+  "start_ts": "2026-10-28 06:00:00.000",
+  "end_ts": "2026-10-28 14:00:00.000",
+  "operator_id": "OP-P02-01"
+ },
+ {
+  "shift_id": "SHF-P02-20261028-B",
+  "plant_id": "P02",
+  "shift_code": "B",
+  "shift_date": "2026-10-28",
+  "start_ts": "2026-10-28 14:00:00.000",
+  "end_ts": "2026-10-28 22:00:00.000",
+  "operator_id": "OP-P02-05"
+ },
+ {
+  "shift_id": "SHF-P02-20261028-C",
+  "plant_id": "P02",
+  "shift_code": "C",
+  "shift_date": "2026-10-28",
+  "start_ts": "2026-10-28 22:00:00.000",
+  "end_ts": "2026-10-29 06:00:00.000",
+  "operator_id": "OP-P02-06"
+ },
+ {
+  "shift_id": "SHF-P02-20261029-A",
+  "plant_id": "P02",
+  "shift_code": "A",
+  "shift_date": "2026-10-29",
+  "start_ts": "2026-10-29 06:00:00.000",
+  "end_ts": "2026-10-29 14:00:00.000",
+  "operator_id": "OP-P02-04"
+ },
+ {
+  "shift_id": "SHF-P02-20261029-B",
+  "plant_id": "P02",
+  "shift_code": "B",
+  "shift_date": "2026-10-29",
+  "start_ts": "2026-10-29 14:00:00.000",
+  "end_ts": "2026-10-29 22:00:00.000",
+  "operator_id": "OP-P02-07"
+ },
+ {
+  "shift_id": "SHF-P02-20261029-C",
+  "plant_id": "P02",
+  "shift_code": "C",
+  "shift_date": "2026-10-29",
+  "start_ts": "2026-10-29 22:00:00.000",
+  "end_ts": "2026-10-30 06:00:00.000",
+  "operator_id": "OP-P02-03"
+ },
+ {
+  "shift_id": "SHF-P02-20261030-A",
+  "plant_id": "P02",
+  "shift_code": "A",
+  "shift_date": "2026-10-30",
+  "start_ts": "2026-10-30 06:00:00.000",
+  "end_ts": "2026-10-30 14:00:00.000",
+  "operator_id": "OP-P02-05"
+ },
+ {
+  "shift_id": "SHF-P02-20261030-B",
+  "plant_id": "P02",
+  "shift_code": "B",
+  "shift_date": "2026-10-30",
+  "start_ts": "2026-10-30 14:00:00.000",
+  "end_ts": "2026-10-30 22:00:00.000",
+  "operator_id": "OP-P02-01"
+ },
+ {
+  "shift_id": "SHF-P02-20261030-C",
+  "plant_id": "P02",
+  "shift_code": "C",
+  "shift_date": "2026-10-30",
+  "start_ts": "2026-10-30 22:00:00.000",
+  "end_ts": "2026-10-31 06:00:00.000",
+  "operator_id": "OP-P02-06"
+ },
+ {
+  "shift_id": "SHF-P03-20260930-C",
+  "plant_id": "P03",
+  "shift_code": "C",
+  "shift_date": "2026-09-30",
+  "start_ts": "2026-09-30 22:00:00.000",
+  "end_ts": "2026-10-01 06:00:00.000",
+  "operator_id": "OP-P03-04"
+ },
+ {
+  "shift_id": "SHF-P03-20261001-A",
+  "plant_id": "P03",
+  "shift_code": "A",
+  "shift_date": "2026-10-01",
+  "start_ts": "2026-10-01 06:00:00.000",
+  "end_ts": "2026-10-01 14:00:00.000",
+  "operator_id": "OP-P03-03"
+ },
+ {
+  "shift_id": "SHF-P03-20261001-B",
+  "plant_id": "P03",
+  "shift_code": "B",
+  "shift_date": "2026-10-01",
+  "start_ts": "2026-10-01 14:00:00.000",
+  "end_ts": "2026-10-01 22:00:00.000",
+  "operator_id": "OP-P03-07"
+ },
+ {
+  "shift_id": "SHF-P03-20261001-C",
+  "plant_id": "P03",
+  "shift_code": "C",
+  "shift_date": "2026-10-01",
+  "start_ts": "2026-10-01 22:00:00.000",
+  "end_ts": "2026-10-02 06:00:00.000",
+  "operator_id": "OP-P03-04"
+ },
+ {
+  "shift_id": "SHF-P03-20261002-A",
+  "plant_id": "P03",
+  "shift_code": "A",
+  "shift_date": "2026-10-02",
+  "start_ts": "2026-10-02 06:00:00.000",
+  "end_ts": "2026-10-02 14:00:00.000",
+  "operator_id": "OP-P03-03"
+ },
+ {
+  "shift_id": "SHF-P03-20261002-B",
+  "plant_id": "P03",
+  "shift_code": "B",
+  "shift_date": "2026-10-02",
+  "start_ts": "2026-10-02 14:00:00.000",
+  "end_ts": "2026-10-02 22:00:00.000",
+  "operator_id": "OP-P03-04"
+ },
+ {
+  "shift_id": "SHF-P03-20261002-C",
+  "plant_id": "P03",
+  "shift_code": "C",
+  "shift_date": "2026-10-02",
+  "start_ts": "2026-10-02 22:00:00.000",
+  "end_ts": "2026-10-03 06:00:00.000",
+  "operator_id": "OP-P03-08"
+ },
+ {
+  "shift_id": "SHF-P03-20261003-A",
+  "plant_id": "P03",
+  "shift_code": "A",
+  "shift_date": "2026-10-03",
+  "start_ts": "2026-10-03 06:00:00.000",
+  "end_ts": "2026-10-03 14:00:00.000",
+  "operator_id": "OP-P03-03"
+ },
+ {
+  "shift_id": "SHF-P03-20261003-B",
+  "plant_id": "P03",
+  "shift_code": "B",
+  "shift_date": "2026-10-03",
+  "start_ts": "2026-10-03 14:00:00.000",
+  "end_ts": "2026-10-03 22:00:00.000",
+  "operator_id": "OP-P03-01"
+ },
+ {
+  "shift_id": "SHF-P03-20261003-C",
+  "plant_id": "P03",
+  "shift_code": "C",
+  "shift_date": "2026-10-03",
+  "start_ts": "2026-10-03 22:00:00.000",
+  "end_ts": "2026-10-04 06:00:00.000",
+  "operator_id": "OP-P03-02"
+ },
+ {
+  "shift_id": "SHF-P03-20261004-A",
+  "plant_id": "P03",
+  "shift_code": "A",
+  "shift_date": "2026-10-04",
+  "start_ts": "2026-10-04 06:00:00.000",
+  "end_ts": "2026-10-04 14:00:00.000",
+  "operator_id": "OP-P03-02"
+ },
+ {
+  "shift_id": "SHF-P03-20261004-B",
+  "plant_id": "P03",
+  "shift_code": "B",
+  "shift_date": "2026-10-04",
+  "start_ts": "2026-10-04 14:00:00.000",
+  "end_ts": "2026-10-04 22:00:00.000",
+  "operator_id": "OP-P03-08"
+ },
+ {
+  "shift_id": "SHF-P03-20261004-C",
+  "plant_id": "P03",
+  "shift_code": "C",
+  "shift_date": "2026-10-04",
+  "start_ts": "2026-10-04 22:00:00.000",
+  "end_ts": "2026-10-05 06:00:00.000",
+  "operator_id": "OP-P03-06"
+ },
+ {
+  "shift_id": "SHF-P03-20261005-A",
+  "plant_id": "P03",
+  "shift_code": "A",
+  "shift_date": "2026-10-05",
+  "start_ts": "2026-10-05 06:00:00.000",
+  "end_ts": "2026-10-05 14:00:00.000",
+  "operator_id": "OP-P03-04"
+ },
+ {
+  "shift_id": "SHF-P03-20261005-B",
+  "plant_id": "P03",
+  "shift_code": "B",
+  "shift_date": "2026-10-05",
+  "start_ts": "2026-10-05 14:00:00.000",
+  "end_ts": "2026-10-05 22:00:00.000",
+  "operator_id": "OP-P03-07"
+ },
+ {
+  "shift_id": "SHF-P03-20261005-C",
+  "plant_id": "P03",
+  "shift_code": "C",
+  "shift_date": "2026-10-05",
+  "start_ts": "2026-10-05 22:00:00.000",
+  "end_ts": "2026-10-06 06:00:00.000",
+  "operator_id": "OP-P03-01"
+ },
+ {
+  "shift_id": "SHF-P03-20261006-A",
+  "plant_id": "P03",
+  "shift_code": "A",
+  "shift_date": "2026-10-06",
+  "start_ts": "2026-10-06 06:00:00.000",
+  "end_ts": "2026-10-06 14:00:00.000",
+  "operator_id": "OP-P03-07"
+ },
+ {
+  "shift_id": "SHF-P03-20261006-B",
+  "plant_id": "P03",
+  "shift_code": "B",
+  "shift_date": "2026-10-06",
+  "start_ts": "2026-10-06 14:00:00.000",
+  "end_ts": "2026-10-06 22:00:00.000",
+  "operator_id": "OP-P03-01"
+ },
+ {
+  "shift_id": "SHF-P03-20261006-C",
+  "plant_id": "P03",
+  "shift_code": "C",
+  "shift_date": "2026-10-06",
+  "start_ts": "2026-10-06 22:00:00.000",
+  "end_ts": "2026-10-07 06:00:00.000",
+  "operator_id": "OP-P03-03"
+ },
+ {
+  "shift_id": "SHF-P03-20261007-A",
+  "plant_id": "P03",
+  "shift_code": "A",
+  "shift_date": "2026-10-07",
+  "start_ts": "2026-10-07 06:00:00.000",
+  "end_ts": "2026-10-07 14:00:00.000",
+  "operator_id": "OP-P03-03"
+ },
+ {
+  "shift_id": "SHF-P03-20261007-B",
+  "plant_id": "P03",
+  "shift_code": "B",
+  "shift_date": "2026-10-07",
+  "start_ts": "2026-10-07 14:00:00.000",
+  "end_ts": "2026-10-07 22:00:00.000",
+  "operator_id": "OP-P03-06"
+ },
+ {
+  "shift_id": "SHF-P03-20261007-C",
+  "plant_id": "P03",
+  "shift_code": "C",
+  "shift_date": "2026-10-07",
+  "start_ts": "2026-10-07 22:00:00.000",
+  "end_ts": "2026-10-08 06:00:00.000",
+  "operator_id": "OP-P03-02"
+ },
+ {
+  "shift_id": "SHF-P03-20261008-A",
+  "plant_id": "P03",
+  "shift_code": "A",
+  "shift_date": "2026-10-08",
+  "start_ts": "2026-10-08 06:00:00.000",
+  "end_ts": "2026-10-08 14:00:00.000",
+  "operator_id": "OP-P03-03"
+ },
+ {
+  "shift_id": "SHF-P03-20261008-B",
+  "plant_id": "P03",
+  "shift_code": "B",
+  "shift_date": "2026-10-08",
+  "start_ts": "2026-10-08 14:00:00.000",
+  "end_ts": "2026-10-08 22:00:00.000",
+  "operator_id": "OP-P03-01"
+ },
+ {
+  "shift_id": "SHF-P03-20261008-C",
+  "plant_id": "P03",
+  "shift_code": "C",
+  "shift_date": "2026-10-08",
+  "start_ts": "2026-10-08 22:00:00.000",
+  "end_ts": "2026-10-09 06:00:00.000",
+  "operator_id": "OP-P03-07"
+ },
+ {
+  "shift_id": "SHF-P03-20261009-A",
+  "plant_id": "P03",
+  "shift_code": "A",
+  "shift_date": "2026-10-09",
+  "start_ts": "2026-10-09 06:00:00.000",
+  "end_ts": "2026-10-09 14:00:00.000",
+  "operator_id": "OP-P03-04"
+ },
+ {
+  "shift_id": "SHF-P03-20261009-B",
+  "plant_id": "P03",
+  "shift_code": "B",
+  "shift_date": "2026-10-09",
+  "start_ts": "2026-10-09 14:00:00.000",
+  "end_ts": "2026-10-09 22:00:00.000",
+  "operator_id": "OP-P03-03"
+ },
+ {
+  "shift_id": "SHF-P03-20261009-C",
+  "plant_id": "P03",
+  "shift_code": "C",
+  "shift_date": "2026-10-09",
+  "start_ts": "2026-10-09 22:00:00.000",
+  "end_ts": "2026-10-10 06:00:00.000",
+  "operator_id": "OP-P03-08"
+ },
+ {
+  "shift_id": "SHF-P03-20261010-A",
+  "plant_id": "P03",
+  "shift_code": "A",
+  "shift_date": "2026-10-10",
+  "start_ts": "2026-10-10 06:00:00.000",
+  "end_ts": "2026-10-10 14:00:00.000",
+  "operator_id": "OP-P03-02"
+ },
+ {
+  "shift_id": "SHF-P03-20261010-B",
+  "plant_id": "P03",
+  "shift_code": "B",
+  "shift_date": "2026-10-10",
+  "start_ts": "2026-10-10 14:00:00.000",
+  "end_ts": "2026-10-10 22:00:00.000",
+  "operator_id": "OP-P03-01"
+ },
+ {
+  "shift_id": "SHF-P03-20261010-C",
+  "plant_id": "P03",
+  "shift_code": "C",
+  "shift_date": "2026-10-10",
+  "start_ts": "2026-10-10 22:00:00.000",
+  "end_ts": "2026-10-11 06:00:00.000",
+  "operator_id": "OP-P03-08"
+ },
+ {
+  "shift_id": "SHF-P03-20261011-A",
+  "plant_id": "P03",
+  "shift_code": "A",
+  "shift_date": "2026-10-11",
+  "start_ts": "2026-10-11 06:00:00.000",
+  "end_ts": "2026-10-11 14:00:00.000",
+  "operator_id": "OP-P03-04"
+ },
+ {
+  "shift_id": "SHF-P03-20261011-B",
+  "plant_id": "P03",
+  "shift_code": "B",
+  "shift_date": "2026-10-11",
+  "start_ts": "2026-10-11 14:00:00.000",
+  "end_ts": "2026-10-11 22:00:00.000",
+  "operator_id": "OP-P03-08"
+ },
+ {
+  "shift_id": "SHF-P03-20261011-C",
+  "plant_id": "P03",
+  "shift_code": "C",
+  "shift_date": "2026-10-11",
+  "start_ts": "2026-10-11 22:00:00.000",
+  "end_ts": "2026-10-12 06:00:00.000",
+  "operator_id": "OP-P03-03"
+ },
+ {
+  "shift_id": "SHF-P03-20261012-A",
+  "plant_id": "P03",
+  "shift_code": "A",
+  "shift_date": "2026-10-12",
+  "start_ts": "2026-10-12 06:00:00.000",
+  "end_ts": "2026-10-12 14:00:00.000",
+  "operator_id": "OP-P03-07"
+ },
+ {
+  "shift_id": "SHF-P03-20261012-B",
+  "plant_id": "P03",
+  "shift_code": "B",
+  "shift_date": "2026-10-12",
+  "start_ts": "2026-10-12 14:00:00.000",
+  "end_ts": "2026-10-12 22:00:00.000",
+  "operator_id": "OP-P03-02"
+ },
+ {
+  "shift_id": "SHF-P03-20261012-C",
+  "plant_id": "P03",
+  "shift_code": "C",
+  "shift_date": "2026-10-12",
+  "start_ts": "2026-10-12 22:00:00.000",
+  "end_ts": "2026-10-13 06:00:00.000",
+  "operator_id": "OP-P03-08"
+ },
+ {
+  "shift_id": "SHF-P03-20261013-A",
+  "plant_id": "P03",
+  "shift_code": "A",
+  "shift_date": "2026-10-13",
+  "start_ts": "2026-10-13 06:00:00.000",
+  "end_ts": "2026-10-13 14:00:00.000",
+  "operator_id": "OP-P03-04"
+ },
+ {
+  "shift_id": "SHF-P03-20261013-B",
+  "plant_id": "P03",
+  "shift_code": "B",
+  "shift_date": "2026-10-13",
+  "start_ts": "2026-10-13 14:00:00.000",
+  "end_ts": "2026-10-13 22:00:00.000",
+  "operator_id": "OP-P03-05"
+ },
+ {
+  "shift_id": "SHF-P03-20261013-C",
+  "plant_id": "P03",
+  "shift_code": "C",
+  "shift_date": "2026-10-13",
+  "start_ts": "2026-10-13 22:00:00.000",
+  "end_ts": "2026-10-14 06:00:00.000",
+  "operator_id": "OP-P03-07"
+ },
+ {
+  "shift_id": "SHF-P03-20261014-A",
+  "plant_id": "P03",
+  "shift_code": "A",
+  "shift_date": "2026-10-14",
+  "start_ts": "2026-10-14 06:00:00.000",
+  "end_ts": "2026-10-14 14:00:00.000",
+  "operator_id": "OP-P03-03"
+ },
+ {
+  "shift_id": "SHF-P03-20261014-B",
+  "plant_id": "P03",
+  "shift_code": "B",
+  "shift_date": "2026-10-14",
+  "start_ts": "2026-10-14 14:00:00.000",
+  "end_ts": "2026-10-14 22:00:00.000",
+  "operator_id": "OP-P03-02"
+ },
+ {
+  "shift_id": "SHF-P03-20261014-C",
+  "plant_id": "P03",
+  "shift_code": "C",
+  "shift_date": "2026-10-14",
+  "start_ts": "2026-10-14 22:00:00.000",
+  "end_ts": "2026-10-15 06:00:00.000",
+  "operator_id": "OP-P03-08"
+ },
+ {
+  "shift_id": "SHF-P03-20261015-A",
+  "plant_id": "P03",
+  "shift_code": "A",
+  "shift_date": "2026-10-15",
+  "start_ts": "2026-10-15 06:00:00.000",
+  "end_ts": "2026-10-15 14:00:00.000",
+  "operator_id": "OP-P03-01"
+ },
+ {
+  "shift_id": "SHF-P03-20261015-B",
+  "plant_id": "P03",
+  "shift_code": "B",
+  "shift_date": "2026-10-15",
+  "start_ts": "2026-10-15 14:00:00.000",
+  "end_ts": "2026-10-15 22:00:00.000",
+  "operator_id": "OP-P03-08"
+ },
+ {
+  "shift_id": "SHF-P03-20261015-C",
+  "plant_id": "P03",
+  "shift_code": "C",
+  "shift_date": "2026-10-15",
+  "start_ts": "2026-10-15 22:00:00.000",
+  "end_ts": "2026-10-16 06:00:00.000",
+  "operator_id": "OP-P03-06"
+ },
+ {
+  "shift_id": "SHF-P03-20261016-A",
+  "plant_id": "P03",
+  "shift_code": "A",
+  "shift_date": "2026-10-16",
+  "start_ts": "2026-10-16 06:00:00.000",
+  "end_ts": "2026-10-16 14:00:00.000",
+  "operator_id": "OP-P03-07"
+ },
+ {
+  "shift_id": "SHF-P03-20261016-B",
+  "plant_id": "P03",
+  "shift_code": "B",
+  "shift_date": "2026-10-16",
+  "start_ts": "2026-10-16 14:00:00.000",
+  "end_ts": "2026-10-16 22:00:00.000",
+  "operator_id": "OP-P03-06"
+ },
+ {
+  "shift_id": "SHF-P03-20261016-C",
+  "plant_id": "P03",
+  "shift_code": "C",
+  "shift_date": "2026-10-16",
+  "start_ts": "2026-10-16 22:00:00.000",
+  "end_ts": "2026-10-17 06:00:00.000",
+  "operator_id": "OP-P03-03"
+ },
+ {
+  "shift_id": "SHF-P03-20261017-A",
+  "plant_id": "P03",
+  "shift_code": "A",
+  "shift_date": "2026-10-17",
+  "start_ts": "2026-10-17 06:00:00.000",
+  "end_ts": "2026-10-17 14:00:00.000",
+  "operator_id": "OP-P03-03"
+ },
+ {
+  "shift_id": "SHF-P03-20261017-B",
+  "plant_id": "P03",
+  "shift_code": "B",
+  "shift_date": "2026-10-17",
+  "start_ts": "2026-10-17 14:00:00.000",
+  "end_ts": "2026-10-17 22:00:00.000",
+  "operator_id": "OP-P03-04"
+ },
+ {
+  "shift_id": "SHF-P03-20261017-C",
+  "plant_id": "P03",
+  "shift_code": "C",
+  "shift_date": "2026-10-17",
+  "start_ts": "2026-10-17 22:00:00.000",
+  "end_ts": "2026-10-18 06:00:00.000",
+  "operator_id": "OP-P03-02"
+ },
+ {
+  "shift_id": "SHF-P03-20261018-A",
+  "plant_id": "P03",
+  "shift_code": "A",
+  "shift_date": "2026-10-18",
+  "start_ts": "2026-10-18 06:00:00.000",
+  "end_ts": "2026-10-18 14:00:00.000",
+  "operator_id": "OP-P03-06"
+ },
+ {
+  "shift_id": "SHF-P03-20261018-B",
+  "plant_id": "P03",
+  "shift_code": "B",
+  "shift_date": "2026-10-18",
+  "start_ts": "2026-10-18 14:00:00.000",
+  "end_ts": "2026-10-18 22:00:00.000",
+  "operator_id": "OP-P03-03"
+ },
+ {
+  "shift_id": "SHF-P03-20261018-C",
+  "plant_id": "P03",
+  "shift_code": "C",
+  "shift_date": "2026-10-18",
+  "start_ts": "2026-10-18 22:00:00.000",
+  "end_ts": "2026-10-19 06:00:00.000",
+  "operator_id": "OP-P03-07"
+ },
+ {
+  "shift_id": "SHF-P03-20261019-A",
+  "plant_id": "P03",
+  "shift_code": "A",
+  "shift_date": "2026-10-19",
+  "start_ts": "2026-10-19 06:00:00.000",
+  "end_ts": "2026-10-19 14:00:00.000",
+  "operator_id": "OP-P03-03"
+ },
+ {
+  "shift_id": "SHF-P03-20261019-B",
+  "plant_id": "P03",
+  "shift_code": "B",
+  "shift_date": "2026-10-19",
+  "start_ts": "2026-10-19 14:00:00.000",
+  "end_ts": "2026-10-19 22:00:00.000",
+  "operator_id": "OP-P03-05"
+ },
+ {
+  "shift_id": "SHF-P03-20261019-C",
+  "plant_id": "P03",
+  "shift_code": "C",
+  "shift_date": "2026-10-19",
+  "start_ts": "2026-10-19 22:00:00.000",
+  "end_ts": "2026-10-20 06:00:00.000",
+  "operator_id": "OP-P03-01"
+ },
+ {
+  "shift_id": "SHF-P03-20261020-A",
+  "plant_id": "P03",
+  "shift_code": "A",
+  "shift_date": "2026-10-20",
+  "start_ts": "2026-10-20 06:00:00.000",
+  "end_ts": "2026-10-20 14:00:00.000",
+  "operator_id": "OP-P03-02"
+ },
+ {
+  "shift_id": "SHF-P03-20261020-B",
+  "plant_id": "P03",
+  "shift_code": "B",
+  "shift_date": "2026-10-20",
+  "start_ts": "2026-10-20 14:00:00.000",
+  "end_ts": "2026-10-20 22:00:00.000",
+  "operator_id": "OP-P03-05"
+ },
+ {
+  "shift_id": "SHF-P03-20261020-C",
+  "plant_id": "P03",
+  "shift_code": "C",
+  "shift_date": "2026-10-20",
+  "start_ts": "2026-10-20 22:00:00.000",
+  "end_ts": "2026-10-21 06:00:00.000",
+  "operator_id": "OP-P03-04"
+ },
+ {
+  "shift_id": "SHF-P03-20261021-A",
+  "plant_id": "P03",
+  "shift_code": "A",
+  "shift_date": "2026-10-21",
+  "start_ts": "2026-10-21 06:00:00.000",
+  "end_ts": "2026-10-21 14:00:00.000",
+  "operator_id": "OP-P03-05"
+ },
+ {
+  "shift_id": "SHF-P03-20261021-B",
+  "plant_id": "P03",
+  "shift_code": "B",
+  "shift_date": "2026-10-21",
+  "start_ts": "2026-10-21 14:00:00.000",
+  "end_ts": "2026-10-21 22:00:00.000",
+  "operator_id": "OP-P03-02"
+ },
+ {
+  "shift_id": "SHF-P03-20261021-C",
+  "plant_id": "P03",
+  "shift_code": "C",
+  "shift_date": "2026-10-21",
+  "start_ts": "2026-10-21 22:00:00.000",
+  "end_ts": "2026-10-22 06:00:00.000",
+  "operator_id": "OP-P03-08"
+ },
+ {
+  "shift_id": "SHF-P03-20261022-A",
+  "plant_id": "P03",
+  "shift_code": "A",
+  "shift_date": "2026-10-22",
+  "start_ts": "2026-10-22 06:00:00.000",
+  "end_ts": "2026-10-22 14:00:00.000",
+  "operator_id": "OP-P03-08"
+ },
+ {
+  "shift_id": "SHF-P03-20261022-B",
+  "plant_id": "P03",
+  "shift_code": "B",
+  "shift_date": "2026-10-22",
+  "start_ts": "2026-10-22 14:00:00.000",
+  "end_ts": "2026-10-22 22:00:00.000",
+  "operator_id": "OP-P03-04"
+ },
+ {
+  "shift_id": "SHF-P03-20261022-C",
+  "plant_id": "P03",
+  "shift_code": "C",
+  "shift_date": "2026-10-22",
+  "start_ts": "2026-10-22 22:00:00.000",
+  "end_ts": "2026-10-23 06:00:00.000",
+  "operator_id": "OP-P03-06"
+ },
+ {
+  "shift_id": "SHF-P03-20261023-A",
+  "plant_id": "P03",
+  "shift_code": "A",
+  "shift_date": "2026-10-23",
+  "start_ts": "2026-10-23 06:00:00.000",
+  "end_ts": "2026-10-23 14:00:00.000",
+  "operator_id": "OP-P03-03"
+ },
+ {
+  "shift_id": "SHF-P03-20261023-B",
+  "plant_id": "P03",
+  "shift_code": "B",
+  "shift_date": "2026-10-23",
+  "start_ts": "2026-10-23 14:00:00.000",
+  "end_ts": "2026-10-23 22:00:00.000",
+  "operator_id": "OP-P03-06"
+ },
+ {
+  "shift_id": "SHF-P03-20261023-C",
+  "plant_id": "P03",
+  "shift_code": "C",
+  "shift_date": "2026-10-23",
+  "start_ts": "2026-10-23 22:00:00.000",
+  "end_ts": "2026-10-24 06:00:00.000",
+  "operator_id": "OP-P03-07"
+ },
+ {
+  "shift_id": "SHF-P03-20261024-A",
+  "plant_id": "P03",
+  "shift_code": "A",
+  "shift_date": "2026-10-24",
+  "start_ts": "2026-10-24 06:00:00.000",
+  "end_ts": "2026-10-24 14:00:00.000",
+  "operator_id": "OP-P03-08"
+ },
+ {
+  "shift_id": "SHF-P03-20261024-B",
+  "plant_id": "P03",
+  "shift_code": "B",
+  "shift_date": "2026-10-24",
+  "start_ts": "2026-10-24 14:00:00.000",
+  "end_ts": "2026-10-24 22:00:00.000",
+  "operator_id": "OP-P03-02"
+ },
+ {
+  "shift_id": "SHF-P03-20261024-C",
+  "plant_id": "P03",
+  "shift_code": "C",
+  "shift_date": "2026-10-24",
+  "start_ts": "2026-10-24 22:00:00.000",
+  "end_ts": "2026-10-25 06:00:00.000",
+  "operator_id": "OP-P03-03"
+ },
+ {
+  "shift_id": "SHF-P03-20261025-A",
+  "plant_id": "P03",
+  "shift_code": "A",
+  "shift_date": "2026-10-25",
+  "start_ts": "2026-10-25 06:00:00.000",
+  "end_ts": "2026-10-25 14:00:00.000",
+  "operator_id": "OP-P03-03"
+ },
+ {
+  "shift_id": "SHF-P03-20261025-B",
+  "plant_id": "P03",
+  "shift_code": "B",
+  "shift_date": "2026-10-25",
+  "start_ts": "2026-10-25 14:00:00.000",
+  "end_ts": "2026-10-25 22:00:00.000",
+  "operator_id": "OP-P03-04"
+ },
+ {
+  "shift_id": "SHF-P03-20261025-C",
+  "plant_id": "P03",
+  "shift_code": "C",
+  "shift_date": "2026-10-25",
+  "start_ts": "2026-10-25 22:00:00.000",
+  "end_ts": "2026-10-26 06:00:00.000",
+  "operator_id": "OP-P03-01"
+ },
+ {
+  "shift_id": "SHF-P03-20261026-A",
+  "plant_id": "P03",
+  "shift_code": "A",
+  "shift_date": "2026-10-26",
+  "start_ts": "2026-10-26 06:00:00.000",
+  "end_ts": "2026-10-26 14:00:00.000",
+  "operator_id": "OP-P03-06"
+ },
+ {
+  "shift_id": "SHF-P03-20261026-B",
+  "plant_id": "P03",
+  "shift_code": "B",
+  "shift_date": "2026-10-26",
+  "start_ts": "2026-10-26 14:00:00.000",
+  "end_ts": "2026-10-26 22:00:00.000",
+  "operator_id": "OP-P03-04"
+ },
+ {
+  "shift_id": "SHF-P03-20261026-C",
+  "plant_id": "P03",
+  "shift_code": "C",
+  "shift_date": "2026-10-26",
+  "start_ts": "2026-10-26 22:00:00.000",
+  "end_ts": "2026-10-27 06:00:00.000",
+  "operator_id": "OP-P03-03"
+ },
+ {
+  "shift_id": "SHF-P03-20261027-A",
+  "plant_id": "P03",
+  "shift_code": "A",
+  "shift_date": "2026-10-27",
+  "start_ts": "2026-10-27 06:00:00.000",
+  "end_ts": "2026-10-27 14:00:00.000",
+  "operator_id": "OP-P03-07"
+ },
+ {
+  "shift_id": "SHF-P03-20261027-B",
+  "plant_id": "P03",
+  "shift_code": "B",
+  "shift_date": "2026-10-27",
+  "start_ts": "2026-10-27 14:00:00.000",
+  "end_ts": "2026-10-27 22:00:00.000",
+  "operator_id": "OP-P03-03"
+ },
+ {
+  "shift_id": "SHF-P03-20261027-C",
+  "plant_id": "P03",
+  "shift_code": "C",
+  "shift_date": "2026-10-27",
+  "start_ts": "2026-10-27 22:00:00.000",
+  "end_ts": "2026-10-28 06:00:00.000",
+  "operator_id": "OP-P03-08"
+ },
+ {
+  "shift_id": "SHF-P03-20261028-A",
+  "plant_id": "P03",
+  "shift_code": "A",
+  "shift_date": "2026-10-28",
+  "start_ts": "2026-10-28 06:00:00.000",
+  "end_ts": "2026-10-28 14:00:00.000",
+  "operator_id": "OP-P03-04"
+ },
+ {
+  "shift_id": "SHF-P03-20261028-B",
+  "plant_id": "P03",
+  "shift_code": "B",
+  "shift_date": "2026-10-28",
+  "start_ts": "2026-10-28 14:00:00.000",
+  "end_ts": "2026-10-28 22:00:00.000",
+  "operator_id": "OP-P03-07"
+ },
+ {
+  "shift_id": "SHF-P03-20261028-C",
+  "plant_id": "P03",
+  "shift_code": "C",
+  "shift_date": "2026-10-28",
+  "start_ts": "2026-10-28 22:00:00.000",
+  "end_ts": "2026-10-29 06:00:00.000",
+  "operator_id": "OP-P03-03"
+ },
+ {
+  "shift_id": "SHF-P03-20261029-A",
+  "plant_id": "P03",
+  "shift_code": "A",
+  "shift_date": "2026-10-29",
+  "start_ts": "2026-10-29 06:00:00.000",
+  "end_ts": "2026-10-29 14:00:00.000",
+  "operator_id": "OP-P03-02"
+ },
+ {
+  "shift_id": "SHF-P03-20261029-B",
+  "plant_id": "P03",
+  "shift_code": "B",
+  "shift_date": "2026-10-29",
+  "start_ts": "2026-10-29 14:00:00.000",
+  "end_ts": "2026-10-29 22:00:00.000",
+  "operator_id": "OP-P03-08"
+ },
+ {
+  "shift_id": "SHF-P03-20261029-C",
+  "plant_id": "P03",
+  "shift_code": "C",
+  "shift_date": "2026-10-29",
+  "start_ts": "2026-10-29 22:00:00.000",
+  "end_ts": "2026-10-30 06:00:00.000",
+  "operator_id": "OP-P03-05"
+ },
+ {
+  "shift_id": "SHF-P03-20261030-A",
+  "plant_id": "P03",
+  "shift_code": "A",
+  "shift_date": "2026-10-30",
+  "start_ts": "2026-10-30 06:00:00.000",
+  "end_ts": "2026-10-30 14:00:00.000",
+  "operator_id": "OP-P03-04"
+ },
+ {
+  "shift_id": "SHF-P03-20261030-B",
+  "plant_id": "P03",
+  "shift_code": "B",
+  "shift_date": "2026-10-30",
+  "start_ts": "2026-10-30 14:00:00.000",
+  "end_ts": "2026-10-30 22:00:00.000",
+  "operator_id": "OP-P03-05"
+ },
+ {
+  "shift_id": "SHF-P03-20261030-C",
+  "plant_id": "P03",
+  "shift_code": "C",
+  "shift_date": "2026-10-30",
+  "start_ts": "2026-10-30 22:00:00.000",
+  "end_ts": "2026-10-31 06:00:00.000",
+  "operator_id": "OP-P03-02"
+ },
+ {
+  "shift_id": "SHF-P04-20260930-C",
+  "plant_id": "P04",
+  "shift_code": "C",
+  "shift_date": "2026-09-30",
+  "start_ts": "2026-09-30 22:00:00.000",
+  "end_ts": "2026-10-01 06:00:00.000",
+  "operator_id": "OP-P04-01"
+ },
+ {
+  "shift_id": "SHF-P04-20261001-A",
+  "plant_id": "P04",
+  "shift_code": "A",
+  "shift_date": "2026-10-01",
+  "start_ts": "2026-10-01 06:00:00.000",
+  "end_ts": "2026-10-01 14:00:00.000",
+  "operator_id": "OP-P04-01"
+ },
+ {
+  "shift_id": "SHF-P04-20261001-B",
+  "plant_id": "P04",
+  "shift_code": "B",
+  "shift_date": "2026-10-01",
+  "start_ts": "2026-10-01 14:00:00.000",
+  "end_ts": "2026-10-01 22:00:00.000",
+  "operator_id": "OP-P04-08"
+ },
+ {
+  "shift_id": "SHF-P04-20261001-C",
+  "plant_id": "P04",
+  "shift_code": "C",
+  "shift_date": "2026-10-01",
+  "start_ts": "2026-10-01 22:00:00.000",
+  "end_ts": "2026-10-02 06:00:00.000",
+  "operator_id": "OP-P04-07"
+ },
+ {
+  "shift_id": "SHF-P04-20261002-A",
+  "plant_id": "P04",
+  "shift_code": "A",
+  "shift_date": "2026-10-02",
+  "start_ts": "2026-10-02 06:00:00.000",
+  "end_ts": "2026-10-02 14:00:00.000",
+  "operator_id": "OP-P04-07"
+ },
+ {
+  "shift_id": "SHF-P04-20261002-B",
+  "plant_id": "P04",
+  "shift_code": "B",
+  "shift_date": "2026-10-02",
+  "start_ts": "2026-10-02 14:00:00.000",
+  "end_ts": "2026-10-02 22:00:00.000",
+  "operator_id": "OP-P04-03"
+ },
+ {
+  "shift_id": "SHF-P04-20261002-C",
+  "plant_id": "P04",
+  "shift_code": "C",
+  "shift_date": "2026-10-02",
+  "start_ts": "2026-10-02 22:00:00.000",
+  "end_ts": "2026-10-03 06:00:00.000",
+  "operator_id": "OP-P04-05"
+ },
+ {
+  "shift_id": "SHF-P04-20261003-A",
+  "plant_id": "P04",
+  "shift_code": "A",
+  "shift_date": "2026-10-03",
+  "start_ts": "2026-10-03 06:00:00.000",
+  "end_ts": "2026-10-03 14:00:00.000",
+  "operator_id": "OP-P04-04"
+ },
+ {
+  "shift_id": "SHF-P04-20261003-B",
+  "plant_id": "P04",
+  "shift_code": "B",
+  "shift_date": "2026-10-03",
+  "start_ts": "2026-10-03 14:00:00.000",
+  "end_ts": "2026-10-03 22:00:00.000",
+  "operator_id": "OP-P04-03"
+ },
+ {
+  "shift_id": "SHF-P04-20261003-C",
+  "plant_id": "P04",
+  "shift_code": "C",
+  "shift_date": "2026-10-03",
+  "start_ts": "2026-10-03 22:00:00.000",
+  "end_ts": "2026-10-04 06:00:00.000",
+  "operator_id": "OP-P04-01"
+ },
+ {
+  "shift_id": "SHF-P04-20261004-A",
+  "plant_id": "P04",
+  "shift_code": "A",
+  "shift_date": "2026-10-04",
+  "start_ts": "2026-10-04 06:00:00.000",
+  "end_ts": "2026-10-04 14:00:00.000",
+  "operator_id": "OP-P04-04"
+ },
+ {
+  "shift_id": "SHF-P04-20261004-B",
+  "plant_id": "P04",
+  "shift_code": "B",
+  "shift_date": "2026-10-04",
+  "start_ts": "2026-10-04 14:00:00.000",
+  "end_ts": "2026-10-04 22:00:00.000",
+  "operator_id": "OP-P04-01"
+ },
+ {
+  "shift_id": "SHF-P04-20261004-C",
+  "plant_id": "P04",
+  "shift_code": "C",
+  "shift_date": "2026-10-04",
+  "start_ts": "2026-10-04 22:00:00.000",
+  "end_ts": "2026-10-05 06:00:00.000",
+  "operator_id": "OP-P04-02"
+ },
+ {
+  "shift_id": "SHF-P04-20261005-A",
+  "plant_id": "P04",
+  "shift_code": "A",
+  "shift_date": "2026-10-05",
+  "start_ts": "2026-10-05 06:00:00.000",
+  "end_ts": "2026-10-05 14:00:00.000",
+  "operator_id": "OP-P04-05"
+ },
+ {
+  "shift_id": "SHF-P04-20261005-B",
+  "plant_id": "P04",
+  "shift_code": "B",
+  "shift_date": "2026-10-05",
+  "start_ts": "2026-10-05 14:00:00.000",
+  "end_ts": "2026-10-05 22:00:00.000",
+  "operator_id": "OP-P04-08"
+ },
+ {
+  "shift_id": "SHF-P04-20261005-C",
+  "plant_id": "P04",
+  "shift_code": "C",
+  "shift_date": "2026-10-05",
+  "start_ts": "2026-10-05 22:00:00.000",
+  "end_ts": "2026-10-06 06:00:00.000",
+  "operator_id": "OP-P04-01"
+ },
+ {
+  "shift_id": "SHF-P04-20261006-A",
+  "plant_id": "P04",
+  "shift_code": "A",
+  "shift_date": "2026-10-06",
+  "start_ts": "2026-10-06 06:00:00.000",
+  "end_ts": "2026-10-06 14:00:00.000",
+  "operator_id": "OP-P04-05"
+ },
+ {
+  "shift_id": "SHF-P04-20261006-B",
+  "plant_id": "P04",
+  "shift_code": "B",
+  "shift_date": "2026-10-06",
+  "start_ts": "2026-10-06 14:00:00.000",
+  "end_ts": "2026-10-06 22:00:00.000",
+  "operator_id": "OP-P04-03"
+ },
+ {
+  "shift_id": "SHF-P04-20261006-C",
+  "plant_id": "P04",
+  "shift_code": "C",
+  "shift_date": "2026-10-06",
+  "start_ts": "2026-10-06 22:00:00.000",
+  "end_ts": "2026-10-07 06:00:00.000",
+  "operator_id": "OP-P04-02"
+ },
+ {
+  "shift_id": "SHF-P04-20261007-A",
+  "plant_id": "P04",
+  "shift_code": "A",
+  "shift_date": "2026-10-07",
+  "start_ts": "2026-10-07 06:00:00.000",
+  "end_ts": "2026-10-07 14:00:00.000",
+  "operator_id": "OP-P04-04"
+ },
+ {
+  "shift_id": "SHF-P04-20261007-B",
+  "plant_id": "P04",
+  "shift_code": "B",
+  "shift_date": "2026-10-07",
+  "start_ts": "2026-10-07 14:00:00.000",
+  "end_ts": "2026-10-07 22:00:00.000",
+  "operator_id": "OP-P04-08"
+ },
+ {
+  "shift_id": "SHF-P04-20261007-C",
+  "plant_id": "P04",
+  "shift_code": "C",
+  "shift_date": "2026-10-07",
+  "start_ts": "2026-10-07 22:00:00.000",
+  "end_ts": "2026-10-08 06:00:00.000",
+  "operator_id": "OP-P04-03"
+ },
+ {
+  "shift_id": "SHF-P04-20261008-A",
+  "plant_id": "P04",
+  "shift_code": "A",
+  "shift_date": "2026-10-08",
+  "start_ts": "2026-10-08 06:00:00.000",
+  "end_ts": "2026-10-08 14:00:00.000",
+  "operator_id": "OP-P04-07"
+ },
+ {
+  "shift_id": "SHF-P04-20261008-B",
+  "plant_id": "P04",
+  "shift_code": "B",
+  "shift_date": "2026-10-08",
+  "start_ts": "2026-10-08 14:00:00.000",
+  "end_ts": "2026-10-08 22:00:00.000",
+  "operator_id": "OP-P04-05"
+ },
+ {
+  "shift_id": "SHF-P04-20261008-C",
+  "plant_id": "P04",
+  "shift_code": "C",
+  "shift_date": "2026-10-08",
+  "start_ts": "2026-10-08 22:00:00.000",
+  "end_ts": "2026-10-09 06:00:00.000",
+  "operator_id": "OP-P04-04"
+ },
+ {
+  "shift_id": "SHF-P04-20261009-A",
+  "plant_id": "P04",
+  "shift_code": "A",
+  "shift_date": "2026-10-09",
+  "start_ts": "2026-10-09 06:00:00.000",
+  "end_ts": "2026-10-09 14:00:00.000",
+  "operator_id": "OP-P04-03"
+ },
+ {
+  "shift_id": "SHF-P04-20261009-B",
+  "plant_id": "P04",
+  "shift_code": "B",
+  "shift_date": "2026-10-09",
+  "start_ts": "2026-10-09 14:00:00.000",
+  "end_ts": "2026-10-09 22:00:00.000",
+  "operator_id": "OP-P04-07"
+ },
+ {
+  "shift_id": "SHF-P04-20261009-C",
+  "plant_id": "P04",
+  "shift_code": "C",
+  "shift_date": "2026-10-09",
+  "start_ts": "2026-10-09 22:00:00.000",
+  "end_ts": "2026-10-10 06:00:00.000",
+  "operator_id": "OP-P04-01"
+ },
+ {
+  "shift_id": "SHF-P04-20261010-A",
+  "plant_id": "P04",
+  "shift_code": "A",
+  "shift_date": "2026-10-10",
+  "start_ts": "2026-10-10 06:00:00.000",
+  "end_ts": "2026-10-10 14:00:00.000",
+  "operator_id": "OP-P04-03"
+ },
+ {
+  "shift_id": "SHF-P04-20261010-B",
+  "plant_id": "P04",
+  "shift_code": "B",
+  "shift_date": "2026-10-10",
+  "start_ts": "2026-10-10 14:00:00.000",
+  "end_ts": "2026-10-10 22:00:00.000",
+  "operator_id": "OP-P04-02"
+ },
+ {
+  "shift_id": "SHF-P04-20261010-C",
+  "plant_id": "P04",
+  "shift_code": "C",
+  "shift_date": "2026-10-10",
+  "start_ts": "2026-10-10 22:00:00.000",
+  "end_ts": "2026-10-11 06:00:00.000",
+  "operator_id": "OP-P04-06"
+ },
+ {
+  "shift_id": "SHF-P04-20261011-A",
+  "plant_id": "P04",
+  "shift_code": "A",
+  "shift_date": "2026-10-11",
+  "start_ts": "2026-10-11 06:00:00.000",
+  "end_ts": "2026-10-11 14:00:00.000",
+  "operator_id": "OP-P04-05"
+ },
+ {
+  "shift_id": "SHF-P04-20261011-B",
+  "plant_id": "P04",
+  "shift_code": "B",
+  "shift_date": "2026-10-11",
+  "start_ts": "2026-10-11 14:00:00.000",
+  "end_ts": "2026-10-11 22:00:00.000",
+  "operator_id": "OP-P04-07"
+ },
+ {
+  "shift_id": "SHF-P04-20261011-C",
+  "plant_id": "P04",
+  "shift_code": "C",
+  "shift_date": "2026-10-11",
+  "start_ts": "2026-10-11 22:00:00.000",
+  "end_ts": "2026-10-12 06:00:00.000",
+  "operator_id": "OP-P04-06"
+ },
+ {
+  "shift_id": "SHF-P04-20261012-A",
+  "plant_id": "P04",
+  "shift_code": "A",
+  "shift_date": "2026-10-12",
+  "start_ts": "2026-10-12 06:00:00.000",
+  "end_ts": "2026-10-12 14:00:00.000",
+  "operator_id": "OP-P04-04"
+ },
+ {
+  "shift_id": "SHF-P04-20261012-B",
+  "plant_id": "P04",
+  "shift_code": "B",
+  "shift_date": "2026-10-12",
+  "start_ts": "2026-10-12 14:00:00.000",
+  "end_ts": "2026-10-12 22:00:00.000",
+  "operator_id": "OP-P04-06"
+ },
+ {
+  "shift_id": "SHF-P04-20261012-C",
+  "plant_id": "P04",
+  "shift_code": "C",
+  "shift_date": "2026-10-12",
+  "start_ts": "2026-10-12 22:00:00.000",
+  "end_ts": "2026-10-13 06:00:00.000",
+  "operator_id": "OP-P04-03"
+ },
+ {
+  "shift_id": "SHF-P04-20261013-A",
+  "plant_id": "P04",
+  "shift_code": "A",
+  "shift_date": "2026-10-13",
+  "start_ts": "2026-10-13 06:00:00.000",
+  "end_ts": "2026-10-13 14:00:00.000",
+  "operator_id": "OP-P04-06"
+ },
+ {
+  "shift_id": "SHF-P04-20261013-B",
+  "plant_id": "P04",
+  "shift_code": "B",
+  "shift_date": "2026-10-13",
+  "start_ts": "2026-10-13 14:00:00.000",
+  "end_ts": "2026-10-13 22:00:00.000",
+  "operator_id": "OP-P04-04"
+ },
+ {
+  "shift_id": "SHF-P04-20261013-C",
+  "plant_id": "P04",
+  "shift_code": "C",
+  "shift_date": "2026-10-13",
+  "start_ts": "2026-10-13 22:00:00.000",
+  "end_ts": "2026-10-14 06:00:00.000",
+  "operator_id": "OP-P04-02"
+ },
+ {
+  "shift_id": "SHF-P04-20261014-A",
+  "plant_id": "P04",
+  "shift_code": "A",
+  "shift_date": "2026-10-14",
+  "start_ts": "2026-10-14 06:00:00.000",
+  "end_ts": "2026-10-14 14:00:00.000",
+  "operator_id": "OP-P04-01"
+ },
+ {
+  "shift_id": "SHF-P04-20261014-B",
+  "plant_id": "P04",
+  "shift_code": "B",
+  "shift_date": "2026-10-14",
+  "start_ts": "2026-10-14 14:00:00.000",
+  "end_ts": "2026-10-14 22:00:00.000",
+  "operator_id": "OP-P04-02"
+ },
+ {
+  "shift_id": "SHF-P04-20261014-C",
+  "plant_id": "P04",
+  "shift_code": "C",
+  "shift_date": "2026-10-14",
+  "start_ts": "2026-10-14 22:00:00.000",
+  "end_ts": "2026-10-15 06:00:00.000",
+  "operator_id": "OP-P04-04"
+ },
+ {
+  "shift_id": "SHF-P04-20261015-A",
+  "plant_id": "P04",
+  "shift_code": "A",
+  "shift_date": "2026-10-15",
+  "start_ts": "2026-10-15 06:00:00.000",
+  "end_ts": "2026-10-15 14:00:00.000",
+  "operator_id": "OP-P04-08"
+ },
+ {
+  "shift_id": "SHF-P04-20261015-B",
+  "plant_id": "P04",
+  "shift_code": "B",
+  "shift_date": "2026-10-15",
+  "start_ts": "2026-10-15 14:00:00.000",
+  "end_ts": "2026-10-15 22:00:00.000",
+  "operator_id": "OP-P04-02"
+ },
+ {
+  "shift_id": "SHF-P04-20261015-C",
+  "plant_id": "P04",
+  "shift_code": "C",
+  "shift_date": "2026-10-15",
+  "start_ts": "2026-10-15 22:00:00.000",
+  "end_ts": "2026-10-16 06:00:00.000",
+  "operator_id": "OP-P04-01"
+ },
+ {
+  "shift_id": "SHF-P04-20261016-A",
+  "plant_id": "P04",
+  "shift_code": "A",
+  "shift_date": "2026-10-16",
+  "start_ts": "2026-10-16 06:00:00.000",
+  "end_ts": "2026-10-16 14:00:00.000",
+  "operator_id": "OP-P04-03"
+ },
+ {
+  "shift_id": "SHF-P04-20261016-B",
+  "plant_id": "P04",
+  "shift_code": "B",
+  "shift_date": "2026-10-16",
+  "start_ts": "2026-10-16 14:00:00.000",
+  "end_ts": "2026-10-16 22:00:00.000",
+  "operator_id": "OP-P04-05"
+ },
+ {
+  "shift_id": "SHF-P04-20261016-C",
+  "plant_id": "P04",
+  "shift_code": "C",
+  "shift_date": "2026-10-16",
+  "start_ts": "2026-10-16 22:00:00.000",
+  "end_ts": "2026-10-17 06:00:00.000",
+  "operator_id": "OP-P04-07"
+ },
+ {
+  "shift_id": "SHF-P04-20261017-A",
+  "plant_id": "P04",
+  "shift_code": "A",
+  "shift_date": "2026-10-17",
+  "start_ts": "2026-10-17 06:00:00.000",
+  "end_ts": "2026-10-17 14:00:00.000",
+  "operator_id": "OP-P04-05"
+ },
+ {
+  "shift_id": "SHF-P04-20261017-B",
+  "plant_id": "P04",
+  "shift_code": "B",
+  "shift_date": "2026-10-17",
+  "start_ts": "2026-10-17 14:00:00.000",
+  "end_ts": "2026-10-17 22:00:00.000",
+  "operator_id": "OP-P04-04"
+ },
+ {
+  "shift_id": "SHF-P04-20261017-C",
+  "plant_id": "P04",
+  "shift_code": "C",
+  "shift_date": "2026-10-17",
+  "start_ts": "2026-10-17 22:00:00.000",
+  "end_ts": "2026-10-18 06:00:00.000",
+  "operator_id": "OP-P04-07"
+ },
+ {
+  "shift_id": "SHF-P04-20261018-A",
+  "plant_id": "P04",
+  "shift_code": "A",
+  "shift_date": "2026-10-18",
+  "start_ts": "2026-10-18 06:00:00.000",
+  "end_ts": "2026-10-18 14:00:00.000",
+  "operator_id": "OP-P04-02"
+ },
+ {
+  "shift_id": "SHF-P04-20261018-B",
+  "plant_id": "P04",
+  "shift_code": "B",
+  "shift_date": "2026-10-18",
+  "start_ts": "2026-10-18 14:00:00.000",
+  "end_ts": "2026-10-18 22:00:00.000",
+  "operator_id": "OP-P04-07"
+ },
+ {
+  "shift_id": "SHF-P04-20261018-C",
+  "plant_id": "P04",
+  "shift_code": "C",
+  "shift_date": "2026-10-18",
+  "start_ts": "2026-10-18 22:00:00.000",
+  "end_ts": "2026-10-19 06:00:00.000",
+  "operator_id": "OP-P04-04"
+ },
+ {
+  "shift_id": "SHF-P04-20261019-A",
+  "plant_id": "P04",
+  "shift_code": "A",
+  "shift_date": "2026-10-19",
+  "start_ts": "2026-10-19 06:00:00.000",
+  "end_ts": "2026-10-19 14:00:00.000",
+  "operator_id": "OP-P04-04"
+ },
+ {
+  "shift_id": "SHF-P04-20261019-B",
+  "plant_id": "P04",
+  "shift_code": "B",
+  "shift_date": "2026-10-19",
+  "start_ts": "2026-10-19 14:00:00.000",
+  "end_ts": "2026-10-19 22:00:00.000",
+  "operator_id": "OP-P04-05"
+ },
+ {
+  "shift_id": "SHF-P04-20261019-C",
+  "plant_id": "P04",
+  "shift_code": "C",
+  "shift_date": "2026-10-19",
+  "start_ts": "2026-10-19 22:00:00.000",
+  "end_ts": "2026-10-20 06:00:00.000",
+  "operator_id": "OP-P04-08"
+ },
+ {
+  "shift_id": "SHF-P04-20261020-A",
+  "plant_id": "P04",
+  "shift_code": "A",
+  "shift_date": "2026-10-20",
+  "start_ts": "2026-10-20 06:00:00.000",
+  "end_ts": "2026-10-20 14:00:00.000",
+  "operator_id": "OP-P04-07"
+ },
+ {
+  "shift_id": "SHF-P04-20261020-B",
+  "plant_id": "P04",
+  "shift_code": "B",
+  "shift_date": "2026-10-20",
+  "start_ts": "2026-10-20 14:00:00.000",
+  "end_ts": "2026-10-20 22:00:00.000",
+  "operator_id": "OP-P04-05"
+ },
+ {
+  "shift_id": "SHF-P04-20261020-C",
+  "plant_id": "P04",
+  "shift_code": "C",
+  "shift_date": "2026-10-20",
+  "start_ts": "2026-10-20 22:00:00.000",
+  "end_ts": "2026-10-21 06:00:00.000",
+  "operator_id": "OP-P04-04"
+ },
+ {
+  "shift_id": "SHF-P04-20261021-A",
+  "plant_id": "P04",
+  "shift_code": "A",
+  "shift_date": "2026-10-21",
+  "start_ts": "2026-10-21 06:00:00.000",
+  "end_ts": "2026-10-21 14:00:00.000",
+  "operator_id": "OP-P04-07"
+ },
+ {
+  "shift_id": "SHF-P04-20261021-B",
+  "plant_id": "P04",
+  "shift_code": "B",
+  "shift_date": "2026-10-21",
+  "start_ts": "2026-10-21 14:00:00.000",
+  "end_ts": "2026-10-21 22:00:00.000",
+  "operator_id": "OP-P04-08"
+ },
+ {
+  "shift_id": "SHF-P04-20261021-C",
+  "plant_id": "P04",
+  "shift_code": "C",
+  "shift_date": "2026-10-21",
+  "start_ts": "2026-10-21 22:00:00.000",
+  "end_ts": "2026-10-22 06:00:00.000",
+  "operator_id": "OP-P04-02"
+ },
+ {
+  "shift_id": "SHF-P04-20261022-A",
+  "plant_id": "P04",
+  "shift_code": "A",
+  "shift_date": "2026-10-22",
+  "start_ts": "2026-10-22 06:00:00.000",
+  "end_ts": "2026-10-22 14:00:00.000",
+  "operator_id": "OP-P04-02"
+ },
+ {
+  "shift_id": "SHF-P04-20261022-B",
+  "plant_id": "P04",
+  "shift_code": "B",
+  "shift_date": "2026-10-22",
+  "start_ts": "2026-10-22 14:00:00.000",
+  "end_ts": "2026-10-22 22:00:00.000",
+  "operator_id": "OP-P04-07"
+ },
+ {
+  "shift_id": "SHF-P04-20261022-C",
+  "plant_id": "P04",
+  "shift_code": "C",
+  "shift_date": "2026-10-22",
+  "start_ts": "2026-10-22 22:00:00.000",
+  "end_ts": "2026-10-23 06:00:00.000",
+  "operator_id": "OP-P04-04"
+ },
+ {
+  "shift_id": "SHF-P04-20261023-A",
+  "plant_id": "P04",
+  "shift_code": "A",
+  "shift_date": "2026-10-23",
+  "start_ts": "2026-10-23 06:00:00.000",
+  "end_ts": "2026-10-23 14:00:00.000",
+  "operator_id": "OP-P04-01"
+ },
+ {
+  "shift_id": "SHF-P04-20261023-B",
+  "plant_id": "P04",
+  "shift_code": "B",
+  "shift_date": "2026-10-23",
+  "start_ts": "2026-10-23 14:00:00.000",
+  "end_ts": "2026-10-23 22:00:00.000",
+  "operator_id": "OP-P04-02"
+ },
+ {
+  "shift_id": "SHF-P04-20261023-C",
+  "plant_id": "P04",
+  "shift_code": "C",
+  "shift_date": "2026-10-23",
+  "start_ts": "2026-10-23 22:00:00.000",
+  "end_ts": "2026-10-24 06:00:00.000",
+  "operator_id": "OP-P04-06"
+ },
+ {
+  "shift_id": "SHF-P04-20261024-A",
+  "plant_id": "P04",
+  "shift_code": "A",
+  "shift_date": "2026-10-24",
+  "start_ts": "2026-10-24 06:00:00.000",
+  "end_ts": "2026-10-24 14:00:00.000",
+  "operator_id": "OP-P04-02"
+ },
+ {
+  "shift_id": "SHF-P04-20261024-B",
+  "plant_id": "P04",
+  "shift_code": "B",
+  "shift_date": "2026-10-24",
+  "start_ts": "2026-10-24 14:00:00.000",
+  "end_ts": "2026-10-24 22:00:00.000",
+  "operator_id": "OP-P04-03"
+ },
+ {
+  "shift_id": "SHF-P04-20261024-C",
+  "plant_id": "P04",
+  "shift_code": "C",
+  "shift_date": "2026-10-24",
+  "start_ts": "2026-10-24 22:00:00.000",
+  "end_ts": "2026-10-25 06:00:00.000",
+  "operator_id": "OP-P04-01"
+ },
+ {
+  "shift_id": "SHF-P04-20261025-A",
+  "plant_id": "P04",
+  "shift_code": "A",
+  "shift_date": "2026-10-25",
+  "start_ts": "2026-10-25 06:00:00.000",
+  "end_ts": "2026-10-25 14:00:00.000",
+  "operator_id": "OP-P04-08"
+ },
+ {
+  "shift_id": "SHF-P04-20261025-B",
+  "plant_id": "P04",
+  "shift_code": "B",
+  "shift_date": "2026-10-25",
+  "start_ts": "2026-10-25 14:00:00.000",
+  "end_ts": "2026-10-25 22:00:00.000",
+  "operator_id": "OP-P04-02"
+ },
+ {
+  "shift_id": "SHF-P04-20261025-C",
+  "plant_id": "P04",
+  "shift_code": "C",
+  "shift_date": "2026-10-25",
+  "start_ts": "2026-10-25 22:00:00.000",
+  "end_ts": "2026-10-26 06:00:00.000",
+  "operator_id": "OP-P04-05"
+ },
+ {
+  "shift_id": "SHF-P04-20261026-A",
+  "plant_id": "P04",
+  "shift_code": "A",
+  "shift_date": "2026-10-26",
+  "start_ts": "2026-10-26 06:00:00.000",
+  "end_ts": "2026-10-26 14:00:00.000",
+  "operator_id": "OP-P04-05"
+ },
+ {
+  "shift_id": "SHF-P04-20261026-B",
+  "plant_id": "P04",
+  "shift_code": "B",
+  "shift_date": "2026-10-26",
+  "start_ts": "2026-10-26 14:00:00.000",
+  "end_ts": "2026-10-26 22:00:00.000",
+  "operator_id": "OP-P04-04"
+ },
+ {
+  "shift_id": "SHF-P04-20261026-C",
+  "plant_id": "P04",
+  "shift_code": "C",
+  "shift_date": "2026-10-26",
+  "start_ts": "2026-10-26 22:00:00.000",
+  "end_ts": "2026-10-27 06:00:00.000",
+  "operator_id": "OP-P04-01"
+ },
+ {
+  "shift_id": "SHF-P04-20261027-A",
+  "plant_id": "P04",
+  "shift_code": "A",
+  "shift_date": "2026-10-27",
+  "start_ts": "2026-10-27 06:00:00.000",
+  "end_ts": "2026-10-27 14:00:00.000",
+  "operator_id": "OP-P04-05"
+ },
+ {
+  "shift_id": "SHF-P04-20261027-B",
+  "plant_id": "P04",
+  "shift_code": "B",
+  "shift_date": "2026-10-27",
+  "start_ts": "2026-10-27 14:00:00.000",
+  "end_ts": "2026-10-27 22:00:00.000",
+  "operator_id": "OP-P04-03"
+ },
+ {
+  "shift_id": "SHF-P04-20261027-C",
+  "plant_id": "P04",
+  "shift_code": "C",
+  "shift_date": "2026-10-27",
+  "start_ts": "2026-10-27 22:00:00.000",
+  "end_ts": "2026-10-28 06:00:00.000",
+  "operator_id": "OP-P04-07"
+ },
+ {
+  "shift_id": "SHF-P04-20261028-A",
+  "plant_id": "P04",
+  "shift_code": "A",
+  "shift_date": "2026-10-28",
+  "start_ts": "2026-10-28 06:00:00.000",
+  "end_ts": "2026-10-28 14:00:00.000",
+  "operator_id": "OP-P04-06"
+ },
+ {
+  "shift_id": "SHF-P04-20261028-B",
+  "plant_id": "P04",
+  "shift_code": "B",
+  "shift_date": "2026-10-28",
+  "start_ts": "2026-10-28 14:00:00.000",
+  "end_ts": "2026-10-28 22:00:00.000",
+  "operator_id": "OP-P04-05"
+ },
+ {
+  "shift_id": "SHF-P04-20261028-C",
+  "plant_id": "P04",
+  "shift_code": "C",
+  "shift_date": "2026-10-28",
+  "start_ts": "2026-10-28 22:00:00.000",
+  "end_ts": "2026-10-29 06:00:00.000",
+  "operator_id": "OP-P04-07"
+ },
+ {
+  "shift_id": "SHF-P04-20261029-A",
+  "plant_id": "P04",
+  "shift_code": "A",
+  "shift_date": "2026-10-29",
+  "start_ts": "2026-10-29 06:00:00.000",
+  "end_ts": "2026-10-29 14:00:00.000",
+  "operator_id": "OP-P04-04"
+ },
+ {
+  "shift_id": "SHF-P04-20261029-B",
+  "plant_id": "P04",
+  "shift_code": "B",
+  "shift_date": "2026-10-29",
+  "start_ts": "2026-10-29 14:00:00.000",
+  "end_ts": "2026-10-29 22:00:00.000",
+  "operator_id": "OP-P04-06"
+ },
+ {
+  "shift_id": "SHF-P04-20261029-C",
+  "plant_id": "P04",
+  "shift_code": "C",
+  "shift_date": "2026-10-29",
+  "start_ts": "2026-10-29 22:00:00.000",
+  "end_ts": "2026-10-30 06:00:00.000",
+  "operator_id": "OP-P04-03"
+ },
+ {
+  "shift_id": "SHF-P04-20261030-A",
+  "plant_id": "P04",
+  "shift_code": "A",
+  "shift_date": "2026-10-30",
+  "start_ts": "2026-10-30 06:00:00.000",
+  "end_ts": "2026-10-30 14:00:00.000",
+  "operator_id": "OP-P04-08"
+ },
+ {
+  "shift_id": "SHF-P04-20261030-B",
+  "plant_id": "P04",
+  "shift_code": "B",
+  "shift_date": "2026-10-30",
+  "start_ts": "2026-10-30 14:00:00.000",
+  "end_ts": "2026-10-30 22:00:00.000",
+  "operator_id": "OP-P04-07"
+ },
+ {
+  "shift_id": "SHF-P04-20261030-C",
+  "plant_id": "P04",
+  "shift_code": "C",
+  "shift_date": "2026-10-30",
+  "start_ts": "2026-10-30 22:00:00.000",
+  "end_ts": "2026-10-31 06:00:00.000",
+  "operator_id": "OP-P04-05"
+ }
+]

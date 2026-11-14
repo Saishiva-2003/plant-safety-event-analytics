@@ -1,0 +1,42 @@
+[
+ {
+  "plant_id": "P01",
+  "plant_name": "Pune Stamping Plant",
+  "city": "Pune",
+  "state": "Maharashtra",
+  "country": "IN",
+  "timezone": "Asia/Kolkata",
+  "status": "ACTIVE",
+  "opened_date": "2011-04-01"
+ },
+ {
+  "plant_id": "P02",
+  "plant_name": "Chennai Assembly Plant",
+  "city": "Chennai",
+  "state": "Tamil Nadu",
+  "country": "IN",
+  "timezone": "Asia/Kolkata",
+  "status": "ACTIVE",
+  "opened_date": "2012-04-01"
+ },
+ {
+  "plant_id": "P03",
+  "plant_name": "Hosur Machining Plant",
+  "city": "Hosur",
+  "state": "Tamil Nadu",
+  "country": "IN",
+  "timezone": "Asia/Kolkata",
+  "status": "ACTIVE",
+  "opened_date": "2013-04-01"
+ },
+ {
+  "plant_id": "P04",
+  "plant_name": "Sanand Moulding Plant",
+  "city": "Sanand",
+  "state": "Gujarat",
+  "country": "IN",
+  "timezone": "Asia/Kolkata",
+  "status": "ACTIVE",
+  "opened_date": "2014-04-01"
+ }
+]
