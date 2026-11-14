@@ -1,0 +1,777 @@
+{
+  "dataset": "C:\\CandidateWorkspace\\database",
+  "total_checks": 80,
+  "passed": 75,
+  "expected_anomalies": 5,
+  "failed": 0,
+  "overall": "PASS",
+  "row_counts": {
+    "plant": 4,
+    "safety_zone": 20,
+    "machine": 60,
+    "machine_zone": 76,
+    "interlock": 172,
+    "alarm_definition": 200,
+    "staff": 44,
+    "operator_shift": 364,
+    "machine_state_event": 20991,
+    "interlock_state_event": 1813,
+    "alarm_event": 50000,
+    "acknowledgement": 37421,
+    "incident": 266,
+    "incident_alarm": 307,
+    "corrective_action": 391
+  },
+  "checks": [
+    {
+      "category": "primary_key",
+      "check": "plant PK unique",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "primary_key",
+      "check": "safety_zone PK unique",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "primary_key",
+      "check": "machine PK unique",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "primary_key",
+      "check": "machine_zone PK unique",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "primary_key",
+      "check": "interlock PK unique",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "primary_key",
+      "check": "alarm_definition PK unique",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "primary_key",
+      "check": "staff PK unique",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "primary_key",
+      "check": "operator_shift PK unique",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "primary_key",
+      "check": "machine_state_event PK unique",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "primary_key",
+      "check": "interlock_state_event PK unique",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "primary_key",
+      "check": "alarm_event PK unique",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "primary_key",
+      "check": "acknowledgement PK unique",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "primary_key",
+      "check": "incident PK unique",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "primary_key",
+      "check": "incident_alarm PK unique",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "primary_key",
+      "check": "corrective_action PK unique",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "foreign_key",
+      "check": "safety_zone.plant_id -> plant",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "foreign_key",
+      "check": "machine.plant_id -> plant",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "foreign_key",
+      "check": "machine_zone.machine_id -> machine",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "foreign_key",
+      "check": "machine_zone.zone_id -> safety_zone",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "foreign_key",
+      "check": "interlock.machine_id -> machine",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "foreign_key",
+      "check": "interlock.zone_id -> safety_zone",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "foreign_key",
+      "check": "staff.plant_id -> plant",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "foreign_key",
+      "check": "operator_shift.plant_id -> plant",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "foreign_key",
+      "check": "operator_shift.operator_id -> staff",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "foreign_key",
+      "check": "machine_state_event.machine_id -> machine",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "foreign_key",
+      "check": "interlock_state_event.interlock_id -> interlock",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "foreign_key",
+      "check": "alarm_event.machine_id -> machine",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "foreign_key",
+      "check": "alarm_event.alarm_def_id -> alarm_definition",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "foreign_key",
+      "check": "alarm_event.shift_id -> operator_shift",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "foreign_key",
+      "check": "alarm_event.interlock_id -> interlock",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "foreign_key",
+      "check": "acknowledgement.alarm_event_id -> alarm_event",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "foreign_key",
+      "check": "acknowledgement.shift_id -> operator_shift",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "foreign_key",
+      "check": "acknowledgement.operator_id -> staff",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "foreign_key",
+      "check": "incident.machine_id -> machine",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "foreign_key",
+      "check": "incident.zone_id -> safety_zone",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "foreign_key",
+      "check": "incident.trigger_alarm_id -> alarm_event",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "foreign_key",
+      "check": "incident_alarm.incident_id -> incident",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "foreign_key",
+      "check": "incident_alarm.alarm_event_id -> alarm_event",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "foreign_key",
+      "check": "corrective_action.incident_id -> incident",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "foreign_key",
+      "check": "corrective_action.owner_id -> staff",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "foreign_key",
+      "check": "corrective_action.verified_by -> staff",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "foreign_key",
+      "check": "incident.reported_by -> staff|SYSTEM",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "enum",
+      "check": "alarm_definition.severity allowed values",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "enum",
+      "check": "alarm_definition.category allowed values",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "enum",
+      "check": "alarm_definition.interlock_type allowed values",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "enum",
+      "check": "interlock.interlock_type allowed values",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "enum",
+      "check": "staff.role allowed values",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "enum",
+      "check": "operator_shift.shift_code allowed values",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "enum",
+      "check": "machine_state_event.from_state allowed values",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "enum",
+      "check": "machine_state_event.to_state allowed values",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "enum",
+      "check": "interlock_state_event.from_state allowed values",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "enum",
+      "check": "interlock_state_event.to_state allowed values",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "enum",
+      "check": "interlock_state_event.machine_state_snapshot allowed values",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "enum",
+      "check": "alarm_event.machine_state allowed values",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "enum",
+      "check": "acknowledgement.ack_method allowed values",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "enum",
+      "check": "incident.rule_code allowed values",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "enum",
+      "check": "incident.severity allowed values",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "enum",
+      "check": "incident.status allowed values",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "enum",
+      "check": "incident_alarm.link_role allowed values",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "enum",
+      "check": "corrective_action.status allowed values",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "enum",
+      "check": "corrective_action.action_type allowed values",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "enum",
+      "check": "safety_zone.hazard_level allowed values",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "date_order",
+      "check": "alarm cleared_ts >= raised_ts",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "date_order",
+      "check": "alarm received_ts >= raised_ts",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "date_order",
+      "check": "acknowledgement after alarm raise",
+      "violations": 50,
+      "expected_issue": "ACK_BEFORE_ALARM",
+      "labelled": 50,
+      "status": "EXPECTED",
+      "sample": [
+        "ACK-ALM-P01-M001-000501-01",
+        "ACK-ALM-P01-M002-000253-01",
+        "ACK-ALM-P01-M003-000607-01",
+        "ACK-ALM-P01-M004-000303-01",
+        "ACK-ALM-P01-M004-000366-01"
+      ]
+    },
+    {
+      "category": "date_order",
+      "check": "shift start < end",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "date_order",
+      "check": "incident closed_ts >= opened_ts",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "date_order",
+      "check": "corrective action timeline ordered",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "date_order",
+      "check": "alarm raised inside its shift",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "reconciliation",
+      "check": "response_sec = ack_ts - raised_ts",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "reconciliation",
+      "check": "ack_sla_sec matches severity rule",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "reconciliation",
+      "check": "incident status derived from actions",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "reconciliation",
+      "check": "row counts match manifest",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "lifecycle",
+      "check": "machine state transitions valid",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "lifecycle",
+      "check": "interlock state transitions valid",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    },
+    {
+      "category": "lifecycle",
+      "check": "machine not RUNNING while interlock TRIPPED",
+      "violations": 30,
+      "expected_issue": "IMPOSSIBLE_INTERLOCK_STATE",
+      "labelled": 30,
+      "status": "EXPECTED",
+      "sample": [
+        "ISE-ILK-P01-M001-02-0001",
+        "ISE-ILK-P01-M001-04-0005",
+        "ISE-ILK-P01-M004-01-0015",
+        "ISE-ILK-P01-M005-03-0005",
+        "ISE-ILK-P01-M006-01-0007"
+      ]
+    },
+    {
+      "category": "lifecycle",
+      "check": "action CLOSED only after verification",
+      "violations": 15,
+      "expected_issue": "ACTION_CLOSED_NO_VERIFICATION",
+      "labelled": 15,
+      "status": "EXPECTED",
+      "sample": [
+        "ACT-INC-2026-000012-02",
+        "ACT-INC-2026-000021-02",
+        "ACT-INC-2026-000033-02",
+        "ACT-INC-2026-000045-01",
+        "ACT-INC-2026-000066-02"
+      ]
+    },
+    {
+      "category": "lifecycle",
+      "check": "incident has triggering context (trigger or linked alarms)",
+      "violations": 10,
+      "expected_issue": "INCIDENT_NO_TRIGGER",
+      "labelled": 10,
+      "status": "EXPECTED",
+      "sample": [
+        "INC-2026-000010",
+        "INC-2026-000021",
+        "INC-2026-000045",
+        "INC-2026-000069",
+        "INC-2026-000084"
+      ]
+    },
+    {
+      "category": "duplicate",
+      "check": "alarm (machine, definition, source_seq) unique",
+      "violations": 500,
+      "expected_issue": "REPLAY_DUPLICATE_FLOOD",
+      "labelled": 500,
+      "status": "EXPECTED",
+      "sample": [
+        "ALM-P02-M001-001192",
+        "ALM-P02-M001-001193",
+        "ALM-P02-M002-000866",
+        "ALM-P02-M002-000867",
+        "ALM-P02-M002-000868"
+      ]
+    },
+    {
+      "category": "duplicate",
+      "check": "one acknowledgement per alarm",
+      "violations": 0,
+      "expected_issue": null,
+      "labelled": 0,
+      "status": "PASS",
+      "sample": []
+    }
+  ]
+}

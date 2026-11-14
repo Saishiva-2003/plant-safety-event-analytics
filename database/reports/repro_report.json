@@ -1,0 +1,155 @@
+{
+  "scale": "full",
+  "seed": 20261022,
+  "runs": 2,
+  "combined_sha256_run1": "d40e71611fb01a97f449312c86ab5aba827253f17b9b566e73fafe2100340661",
+  "combined_sha256_run2": "d40e71611fb01a97f449312c86ab5aba827253f17b9b566e73fafe2100340661",
+  "identical": true,
+  "matches_published_dataset": true,
+  "tables": [
+    {
+      "table": "plant",
+      "rows_run1": 4,
+      "rows_run2": 4,
+      "sha256_run1": "c854f796c2de91a2",
+      "sha256_run2": "c854f796c2de91a2",
+      "identical": true,
+      "matches_published": true
+    },
+    {
+      "table": "safety_zone",
+      "rows_run1": 20,
+      "rows_run2": 20,
+      "sha256_run1": "bf49df1918fc9083",
+      "sha256_run2": "bf49df1918fc9083",
+      "identical": true,
+      "matches_published": true
+    },
+    {
+      "table": "machine",
+      "rows_run1": 60,
+      "rows_run2": 60,
+      "sha256_run1": "6e1086bced1d3f44",
+      "sha256_run2": "6e1086bced1d3f44",
+      "identical": true,
+      "matches_published": true
+    },
+    {
+      "table": "machine_zone",
+      "rows_run1": 76,
+      "rows_run2": 76,
+      "sha256_run1": "9c08a8049c63aafd",
+      "sha256_run2": "9c08a8049c63aafd",
+      "identical": true,
+      "matches_published": true
+    },
+    {
+      "table": "interlock",
+      "rows_run1": 172,
+      "rows_run2": 172,
+      "sha256_run1": "53d809067b47d8d5",
+      "sha256_run2": "53d809067b47d8d5",
+      "identical": true,
+      "matches_published": true
+    },
+    {
+      "table": "alarm_definition",
+      "rows_run1": 200,
+      "rows_run2": 200,
+      "sha256_run1": "f0202f383f12eaa6",
+      "sha256_run2": "f0202f383f12eaa6",
+      "identical": true,
+      "matches_published": true
+    },
+    {
+      "table": "staff",
+      "rows_run1": 44,
+      "rows_run2": 44,
+      "sha256_run1": "4ed2998fad380379",
+      "sha256_run2": "4ed2998fad380379",
+      "identical": true,
+      "matches_published": true
+    },
+    {
+      "table": "operator_shift",
+      "rows_run1": 364,
+      "rows_run2": 364,
+      "sha256_run1": "8fce8968d994f224",
+      "sha256_run2": "8fce8968d994f224",
+      "identical": true,
+      "matches_published": true
+    },
+    {
+      "table": "machine_state_event",
+      "rows_run1": 20991,
+      "rows_run2": 20991,
+      "sha256_run1": "5d103ae991a72eb8",
+      "sha256_run2": "5d103ae991a72eb8",
+      "identical": true,
+      "matches_published": true
+    },
+    {
+      "table": "interlock_state_event",
+      "rows_run1": 1813,
+      "rows_run2": 1813,
+      "sha256_run1": "6f3cc5ace8b17dee",
+      "sha256_run2": "6f3cc5ace8b17dee",
+      "identical": true,
+      "matches_published": true
+    },
+    {
+      "table": "alarm_event",
+      "rows_run1": 50000,
+      "rows_run2": 50000,
+      "sha256_run1": "3f7df36310669b2a",
+      "sha256_run2": "3f7df36310669b2a",
+      "identical": true,
+      "matches_published": true
+    },
+    {
+      "table": "acknowledgement",
+      "rows_run1": 37421,
+      "rows_run2": 37421,
+      "sha256_run1": "1b79e5d6096eb09c",
+      "sha256_run2": "1b79e5d6096eb09c",
+      "identical": true,
+      "matches_published": true
+    },
+    {
+      "table": "incident",
+      "rows_run1": 266,
+      "rows_run2": 266,
+      "sha256_run1": "a9557ae6101ed463",
+      "sha256_run2": "a9557ae6101ed463",
+      "identical": true,
+      "matches_published": true
+    },
+    {
+      "table": "incident_alarm",
+      "rows_run1": 307,
+      "rows_run2": 307,
+      "sha256_run1": "fe5406567246fcec",
+      "sha256_run2": "fe5406567246fcec",
+      "identical": true,
+      "matches_published": true
+    },
+    {
+      "table": "corrective_action",
+      "rows_run1": 391,
+      "rows_run2": 391,
+      "sha256_run1": "4330a229bce60eeb",
+      "sha256_run2": "4330a229bce60eeb",
+      "identical": true,
+      "matches_published": true
+    },
+    {
+      "table": "ground_truth",
+      "rows_run1": 686,
+      "rows_run2": 686,
+      "sha256_run1": "803a6a88776390c6",
+      "sha256_run2": "803a6a88776390c6",
+      "identical": true,
+      "matches_published": true
+    }
+  ]
+}
